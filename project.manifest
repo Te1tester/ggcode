@@ -2,7 +2,7 @@
     "packageUrl": "https://xpprodres.vtcgame.vn/XP/vn_release_android/HotUpdate/",
     "remoteManifestUrl": "https://xpprodres.vtcgame.vn/XP/vn_release_android/HotUpdate/project.manifest",
     "remoteVersionUrl": "https://xpprodres.vtcgame.vn/XP/vn_release_android/HotUpdate/version.manifest",
-    "version": "1.0.43",
+    "version": "1.0.46",
     "assets": {
         "src/cocos2d-jsb.jsc": {
             "size": 362220,
@@ -22973,8 +22973,8 @@
             "md5": "6fe44bafa6c6b24638ec18212f1605fc"
         },
         "assets/main/index.jsc": {
-            "size": 1107968,
-            "md5": "79124a21c9dba986611c8a22b3dfa47c",
+            "size": 1108216,
+            "md5": "97c60bf32f2f8a7013a7776ae028e652",
             "downloadState": 2
         },
         "assets/main/native/38/384fb871-5baf-4517-836e-09fe930cd74c.bin": {
@@ -23719,7 +23719,7 @@
         },
         "assets/resources/import/0a/0ab57770-5dbe-4856-8d99-02103489e784.json": {
             "size": 798,
-            "md5": "4550572aafeb75549de8644232d8ff18",
+            "md5": "8d5eb51a79e224fd764ff552a892be7d",
             "downloadState": 2
         },
         "assets/resources/import/0a/0ab6bc5e-2e3a-4f47-8fbb-f3427153567e.json": {
@@ -36007,8 +36007,8 @@
             "md5": "b2d1e4cd68a38482e3806afd0d247ec9"
         },
         "assets/resources/import/c4/c4e10e43-a468-49f3-bfa6-24616822ccb5.json": {
-            "size": 1456050,
-            "md5": "b52a1c635e701607fb862f2f403abc26",
+            "size": 1456618,
+            "md5": "723c268a5a06f18a0826df79198a3b8a",
             "downloadState": 2
         },
         "assets/resources/import/c4/c4f57a6f-acdf-414c-8a4f-8ef8d1fa4bc5.json": {
@@ -39956,8 +39956,9 @@
             "md5": "93c84479ca46b1baa61cc3d7984c016b"
         },
         "assets/resources/native/06/06573087-62d4-4713-bc42-9acaf9b1cc2c.bin": {
-            "size": 15142,
-            "md5": "78b325675fab5e481b29f39f560aef56"
+            "size": 15216,
+            "md5": "f5f84388b6491c72803489f6999669a2",
+            "downloadState": 2
         },
         "assets/resources/native/06/06582b85-969e-4b90-bdd2-0c598ef98269.png": {
             "size": 604,
@@ -40224,8 +40225,9 @@
             "md5": "0b13bac9e549eaf8cf4656b9657ed44b"
         },
         "assets/resources/native/0e/0ec627d6-9d7c-471d-a9d6-89e55ec319aa.bin": {
-            "size": 15142,
-            "md5": "78b325675fab5e481b29f39f560aef56"
+            "size": 15216,
+            "md5": "f5f84388b6491c72803489f6999669a2",
+            "downloadState": 2
         },
         "assets/resources/native/0e/0ee6c0b6-e282-498b-8a77-83b353e32c8c.png": {
             "size": 732,
@@ -40332,8 +40334,9 @@
             "md5": "9471de4bf60f78aaa6a6d7528a676688"
         },
         "assets/resources/native/13/138794df-80ec-462d-99da-70f819813b3a.bin": {
-            "size": 36303,
-            "md5": "baa99a6d2c3a3afcc32e9ea8decd2a12"
+            "size": 36665,
+            "md5": "70ea7aa22fe8d139e551703df2dfe8c0",
+            "downloadState": 2
         },
         "assets/resources/native/13/13a1e967-66ba-447f-8bcc-195b3dbb0e1c.png": {
             "size": 1050,
@@ -40381,8 +40384,7 @@
         },
         "assets/resources/native/14/146ee062-41b8-4cf5-a74d-2eac6b91f095.bin": {
             "size": 1738,
-            "md5": "254524f2c65db2db537a913b7237767b",
-            "downloadState": 2
+            "md5": "254524f2c65db2db537a913b7237767b"
         },
         "assets/resources/native/14/14da77fd-75c7-4376-b19e-0a6ba84bb26b.png": {
             "size": 1779,
@@ -41218,8 +41220,7 @@
         },
         "assets/resources/native/2c/2c2cecf2-7b30-45d9-a710-9fe586fdec4b.bin": {
             "size": 290,
-            "md5": "3eb6e3093c2f7d034d9ba05d60a055e3",
-            "downloadState": 2
+            "md5": "3eb6e3093c2f7d034d9ba05d60a055e3"
         },
         "assets/resources/native/2c/2c4695af-e18b-4019-9904-f9685bbebcb2.png": {
             "size": 134,
@@ -42166,8 +42167,9 @@
             "md5": "1aee50e3c6b40eeac5311e8d9126dc66"
         },
         "assets/resources/native/49/4980cae1-2aa1-4328-bc90-077e787709ff.bin": {
-            "size": 1400,
-            "md5": "833859f90500a29839e123606f412a06"
+            "size": 1704,
+            "md5": "723854b8887e4c538913b626aef51bf0",
+            "downloadState": 2
         },
         "assets/resources/native/49/4981dfe9-b735-4b2d-8e23-b815528b6730.png": {
             "size": 2613,
@@ -42574,8 +42576,9 @@
             "md5": "940fe79ddee08620217da0114d78ee83"
         },
         "assets/resources/native/54/54b20fc5-f493-4c90-90ee-9ba33ae8dcc7.bin": {
-            "size": 1150,
-            "md5": "ea18e1c47f24ae110cb1644db55a6751"
+            "size": 1437,
+            "md5": "2145878018d5cec476734ce336ab7095",
+            "downloadState": 2
         },
         "assets/resources/native/54/54b23c81-4f8f-4a33-b248-ab673ee68000.png": {
             "size": 91,
@@ -43418,8 +43421,9 @@
             "md5": "f0302e66a1e6606df2ea3d83cccf93c7"
         },
         "assets/resources/native/6d/6d00a241-ce37-420a-b4bc-cde9a205f089.bin": {
-            "size": 36303,
-            "md5": "baa99a6d2c3a3afcc32e9ea8decd2a12"
+            "size": 36665,
+            "md5": "70ea7aa22fe8d139e551703df2dfe8c0",
+            "downloadState": 2
         },
         "assets/resources/native/6d/6d2f8035-caba-4504-ad0f-c2cfad28c624.png": {
             "size": 1321,
@@ -46003,8 +46007,7 @@
         },
         "assets/resources/native/bd/bde2d840-5ecb-4faa-ba81-8b2c591e9e15.bin": {
             "size": 76355,
-            "md5": "00dd2213b749d226694428bddb7fcb57",
-            "downloadState": 2
+            "md5": "00dd2213b749d226694428bddb7fcb57"
         },
         "assets/resources/native/be/be07ecef-8664-43db-9219-174c85479686.png": {
             "size": 972,
@@ -46884,8 +46887,7 @@
         },
         "assets/resources/native/dc/dc2e2df0-c777-4498-9845-ba09666d85b8.bin": {
             "size": 2020,
-            "md5": "05f3c45f7b9798e8c3586c7dd1f2446f",
-            "downloadState": 2
+            "md5": "05f3c45f7b9798e8c3586c7dd1f2446f"
         },
         "assets/resources/native/dc/dc4afa37-ddbc-4ca1-926e-c2e65a5e39a4.png": {
             "size": 303511,
@@ -48009,8 +48011,7 @@
         },
         "assets/resources/native/ff/ff28e02d-0a48-4608-9151-abfb10d9fd69.bin": {
             "size": 290,
-            "md5": "3eb6e3093c2f7d034d9ba05d60a055e3",
-            "downloadState": 2
+            "md5": "3eb6e3093c2f7d034d9ba05d60a055e3"
         },
         "assets/resources/native/ff/ff371830-9083-4cdf-ab89-aba2159ac543.png": {
             "size": 1230,
