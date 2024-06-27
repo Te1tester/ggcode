@@ -2,7 +2,7 @@
     "packageUrl": "https://xpprodres.vtcgame.vn/XP/vn_release_android/HotUpdate/",
     "remoteManifestUrl": "https://xpprodres.vtcgame.vn/XP/vn_release_android/HotUpdate/project.manifest",
     "remoteVersionUrl": "https://xpprodres.vtcgame.vn/XP/vn_release_android/HotUpdate/version.manifest",
-    "version": "1.0.72",
+    "version": "1.0.74",
     "assets": {
         "src/cocos2d-jsb.jsc": {
             "size": 362220,
@@ -905,8 +905,9 @@
             "md5": "481fd27dd2c9060e95605592a24bc67e"
         },
         "assets/ab_act/import/ef/ef3e0753-e5f7-427e-a2d5-949cac8ea558.json": {
-            "size": 35431,
-            "md5": "8596694dfc2ab809891d1555e5713526"
+            "size": 35657,
+            "md5": "f5fea7f06359e19b3384aa56a0094155",
+            "downloadState": 2
         },
         "assets/ab_act/import/ef/ef4ea781-8354-4f33-933e-2db74c36dc64.json": {
             "size": 203,
@@ -1842,8 +1843,7 @@
         },
         "assets/ab_ui_icon/config.json": {
             "size": 68603,
-            "md5": "aab4516fd7b020ea351d470dfe505d76",
-            "downloadState": 2
+            "md5": "aab4516fd7b020ea351d470dfe505d76"
         },
         "assets/ab_ui_icon/import/00/0053eacd-6383-42d3-b0ae-fd4fd5a04a8f.json": {
             "size": 203,
@@ -2179,8 +2179,7 @@
         },
         "assets/ab_ui_icon/import/10/10ca749c-5597-4e87-970f-369fc7be7e4d.json": {
             "size": 216,
-            "md5": "d03964a8d7aeb1cd5c143147748ccb15",
-            "downloadState": 2
+            "md5": "d03964a8d7aeb1cd5c143147748ccb15"
         },
         "assets/ab_ui_icon/import/11/119394d8-4af7-4029-8977-863f38a11f6b.json": {
             "size": 199,
@@ -3952,8 +3951,7 @@
         },
         "assets/ab_ui_icon/import/6b/6b8d606c-c658-4181-a274-5e5e75f85ff2.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_icon/import/6b/6ba24868-d0c1-45e7-830c-54fae8b7e13d.json": {
             "size": 197,
@@ -4285,8 +4283,7 @@
         },
         "assets/ab_ui_icon/import/79/79f5b454-bc67-4706-9fc7-d8320a979790.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_icon/import/79/79fe2cfc-cfb6-4b40-9039-2ff7ea754822.json": {
             "size": 86,
@@ -4538,8 +4535,7 @@
         },
         "assets/ab_ui_icon/import/87/876e4bb8-e009-464a-9fc2-1ace3a0712c2.json": {
             "size": 211,
-            "md5": "027dee23b4fe7f19011054c6f69cd842",
-            "downloadState": 2
+            "md5": "027dee23b4fe7f19011054c6f69cd842"
         },
         "assets/ab_ui_icon/import/87/877c2c33-f86c-4660-bb34-51229b1ca574.json": {
             "size": 204,
@@ -5015,8 +5011,7 @@
         },
         "assets/ab_ui_icon/import/a1/a196dc0f-2fb9-487b-9d2c-150feb02b73d.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_icon/import/a1/a1d3ce7d-8ab5-4b09-95e3-e91ee98c0d25.json": {
             "size": 194,
@@ -5364,8 +5359,7 @@
         },
         "assets/ab_ui_icon/import/b0/b0214442-aff9-4416-a37e-d9ee03339559.json": {
             "size": 211,
-            "md5": "c1171d5df47e4a13d618980f9cfc1570",
-            "downloadState": 2
+            "md5": "c1171d5df47e4a13d618980f9cfc1570"
         },
         "assets/ab_ui_icon/import/b0/b06d9e0e-42d8-4a03-bc54-cbccca0885b6.json": {
             "size": 199,
@@ -5461,8 +5455,7 @@
         },
         "assets/ab_ui_icon/import/b5/b536ee80-fa5b-48c8-804d-0e54f3b75099.json": {
             "size": 211,
-            "md5": "ce6c193ad58461cdfe71946403801018",
-            "downloadState": 2
+            "md5": "ce6c193ad58461cdfe71946403801018"
         },
         "assets/ab_ui_icon/import/b5/b573f27c-f4cd-472e-9191-abe84510cf20.json": {
             "size": 86,
@@ -6078,8 +6071,7 @@
         },
         "assets/ab_ui_icon/import/d2/d22b7c03-e587-4401-9c04-67bf31717046.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_icon/import/d2/d27704f6-4001-4203-9b52-9b7ca34ab3ed.json": {
             "size": 86,
@@ -8127,8 +8119,7 @@
         },
         "assets/ab_ui_icon/native/6b/6b8d606c-c658-4181-a274-5e5e75f85ff2.png": {
             "size": 32217,
-            "md5": "1d529d1ad83c62264bf97028ab1346ba",
-            "downloadState": 2
+            "md5": "1d529d1ad83c62264bf97028ab1346ba"
         },
         "assets/ab_ui_icon/native/6b/6bcef301-42dc-4b7d-8479-488339b10be7.png": {
             "size": 26375,
@@ -8304,8 +8295,7 @@
         },
         "assets/ab_ui_icon/native/79/79f5b454-bc67-4706-9fc7-d8320a979790.png": {
             "size": 20190,
-            "md5": "f6ddb51a88b515b6d0dd0630d781760b",
-            "downloadState": 2
+            "md5": "f6ddb51a88b515b6d0dd0630d781760b"
         },
         "assets/ab_ui_icon/native/79/79fe2cfc-cfb6-4b40-9039-2ff7ea754822.png": {
             "size": 9231,
@@ -8657,8 +8647,7 @@
         },
         "assets/ab_ui_icon/native/a1/a196dc0f-2fb9-487b-9d2c-150feb02b73d.png": {
             "size": 23619,
-            "md5": "cccaee8a842f9d3925ab04562d8efaad",
-            "downloadState": 2
+            "md5": "cccaee8a842f9d3925ab04562d8efaad"
         },
         "assets/ab_ui_icon/native/a1/a1f2db25-d945-4c00-a265-2e0a697d846e.png": {
             "size": 19534,
@@ -9182,8 +9171,7 @@
         },
         "assets/ab_ui_icon/native/d2/d22b7c03-e587-4401-9c04-67bf31717046.png": {
             "size": 31380,
-            "md5": "41b75598754fc26e4fc9763db8b0961d",
-            "downloadState": 2
+            "md5": "41b75598754fc26e4fc9763db8b0961d"
         },
         "assets/ab_ui_icon/native/d2/d27704f6-4001-4203-9b52-9b7ca34ab3ed.png": {
             "size": 40163,
@@ -12079,13 +12067,11 @@
         },
         "assets/ab_ui_miniGame/config.json": {
             "size": 30448,
-            "md5": "7c8c5f1318155f35e5c9757491c64f6e",
-            "downloadState": 2
+            "md5": "7c8c5f1318155f35e5c9757491c64f6e"
         },
         "assets/ab_ui_miniGame/import/00/00985747-13d2-42c4-a1f6-26a40ddaf17a.json": {
             "size": 200,
-            "md5": "a9467044dcb015fc7cb4314607d3a573",
-            "downloadState": 2
+            "md5": "a9467044dcb015fc7cb4314607d3a573"
         },
         "assets/ab_ui_miniGame/import/01/01128c4b-d870-463f-9240-c3ad36737fb2.json": {
             "size": 86,
@@ -12253,8 +12239,7 @@
         },
         "assets/ab_ui_miniGame/import/1c/1caa01da-5d5a-43f0-b3d4-4834d0b615b2.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/1c/1cd79733-faa5-4530-abf6-af3941909378.json": {
             "size": 86,
@@ -12274,8 +12259,7 @@
         },
         "assets/ab_ui_miniGame/import/1e/1e7d031f-7e66-4f28-bf39-da453a92d667.json": {
             "size": 200,
-            "md5": "b5f5113837a29b7d9ff5d22e5b6bf5e8",
-            "downloadState": 2
+            "md5": "b5f5113837a29b7d9ff5d22e5b6bf5e8"
         },
         "assets/ab_ui_miniGame/import/1e/1ed12447-fa5f-4305-845f-5db0a789dc99.json": {
             "size": 86,
@@ -12387,8 +12371,7 @@
         },
         "assets/ab_ui_miniGame/import/30/30d3c236-2ca3-4a70-b4ef-885f935b0709.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/31/318dd6c0-4d05-4a68-9fda-b8d122f49bc4.json": {
             "size": 86,
@@ -12424,8 +12407,7 @@
         },
         "assets/ab_ui_miniGame/import/37/3706b025-e8cc-4bd5-802c-172f6849e7d8.json": {
             "size": 201,
-            "md5": "18b10a5d3778947329af44a9738b6191",
-            "downloadState": 2
+            "md5": "18b10a5d3778947329af44a9738b6191"
         },
         "assets/ab_ui_miniGame/import/37/37886c04-9957-47c6-9913-283a72e25d66.json": {
             "size": 199,
@@ -12481,8 +12463,7 @@
         },
         "assets/ab_ui_miniGame/import/41/41d939a5-a153-48a6-9997-88ae864a34bb.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/41/41dd3b3d-301f-4f34-af7b-df54ab730afc.json": {
             "size": 86,
@@ -12514,8 +12495,7 @@
         },
         "assets/ab_ui_miniGame/import/46/460a6549-01db-45bf-a6d1-463d91befaa1.json": {
             "size": 201,
-            "md5": "9efd832bb45b2d19ccdba1c608c503e3",
-            "downloadState": 2
+            "md5": "9efd832bb45b2d19ccdba1c608c503e3"
         },
         "assets/ab_ui_miniGame/import/46/46be6a28-0739-46a2-99cb-32c487aae2f2.json": {
             "size": 86,
@@ -12627,8 +12607,7 @@
         },
         "assets/ab_ui_miniGame/import/57/572588f2-0ace-40ba-b3ed-48f59b9dfbcc.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/57/57d4d3f4-3e71-4b0d-a2a8-1e7a5dae64a9.json": {
             "size": 199,
@@ -12652,13 +12631,11 @@
         },
         "assets/ab_ui_miniGame/import/5f/5f4001ed-1170-4f47-8f79-7517fe2cab75.json": {
             "size": 201,
-            "md5": "a7461806c8e02969c6f1565c2a6b4d03",
-            "downloadState": 2
+            "md5": "a7461806c8e02969c6f1565c2a6b4d03"
         },
         "assets/ab_ui_miniGame/import/5f/5fc92a4b-0a4c-41bd-8a55-c7870faae5d0.json": {
             "size": 200,
-            "md5": "bf4b336628ee33e748998c7da46340f1",
-            "downloadState": 2
+            "md5": "bf4b336628ee33e748998c7da46340f1"
         },
         "assets/ab_ui_miniGame/import/60/603a479b-dcf9-40cb-aecd-7d9d76134dcd.json": {
             "size": 86,
@@ -12706,8 +12683,7 @@
         },
         "assets/ab_ui_miniGame/import/68/68443fd8-decd-42f9-a2dc-97e0a237092d.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/68/68c6992a-6755-4437-a357-d1aee47c41af.json": {
             "size": 86,
@@ -12715,8 +12691,7 @@
         },
         "assets/ab_ui_miniGame/import/6b/6b454712-489b-4003-bc28-dceb5fbad473.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/6b/6bd7735f-3a51-437b-9d9f-073228413c18.json": {
             "size": 201,
@@ -12740,13 +12715,11 @@
         },
         "assets/ab_ui_miniGame/import/74/74af595d-17c0-4ea9-ae04-2a16c5fe4a36.json": {
             "size": 200,
-            "md5": "52763951631963a2584b931aaf9fa6d5",
-            "downloadState": 2
+            "md5": "52763951631963a2584b931aaf9fa6d5"
         },
         "assets/ab_ui_miniGame/import/74/74f74143-da53-4239-80ad-10322c917d69.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/75/7505d0f1-128d-47bb-b432-d32a5583d139.json": {
             "size": 202,
@@ -12798,8 +12771,7 @@
         },
         "assets/ab_ui_miniGame/import/7c/7c803a57-8df0-427c-bbc8-ca816cabbb0a.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/7d/7d56995b-1e7e-46a9-adf9-dc40d6a49d60.json": {
             "size": 86,
@@ -12835,8 +12807,7 @@
         },
         "assets/ab_ui_miniGame/import/84/8407b938-ffc6-4c28-946d-c0471aca0534.json": {
             "size": 202,
-            "md5": "dbb383552cff5f860a85160af6a91e1b",
-            "downloadState": 2
+            "md5": "dbb383552cff5f860a85160af6a91e1b"
         },
         "assets/ab_ui_miniGame/import/84/84860a9c-c567-4c03-93e4-1b2978bf7f2e.json": {
             "size": 207,
@@ -12936,8 +12907,7 @@
         },
         "assets/ab_ui_miniGame/import/9a/9aaed109-2e14-4081-ad24-4378a0193b48.json": {
             "size": 199,
-            "md5": "a981e37751b82d0b1fddfcc6e5f6a859",
-            "downloadState": 2
+            "md5": "a981e37751b82d0b1fddfcc6e5f6a859"
         },
         "assets/ab_ui_miniGame/import/9b/9b38a1d3-6a42-4dd1-b1e1-b17274706644.json": {
             "size": 86,
@@ -12949,8 +12919,7 @@
         },
         "assets/ab_ui_miniGame/import/9c/9c6303e0-8b35-40fe-b90d-f01a4a6a28f8.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/9e/9e9adffa-cefd-438a-aa89-35b2612a853b.json": {
             "size": 195,
@@ -12970,8 +12939,7 @@
         },
         "assets/ab_ui_miniGame/import/a3/a3feefa4-ca65-4835-bc20-d3c49784d91e.json": {
             "size": 200,
-            "md5": "1a1ed77f22ef3e86a04ff6734a19154a",
-            "downloadState": 2
+            "md5": "1a1ed77f22ef3e86a04ff6734a19154a"
         },
         "assets/ab_ui_miniGame/import/a5/a503cc2c-58aa-4a3b-897f-0a73f3b9f9fe.json": {
             "size": 86,
@@ -12999,8 +12967,7 @@
         },
         "assets/ab_ui_miniGame/import/a8/a821641d-3bf3-402f-8b54-e68749d641bb.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/a9/a9a39bdd-03f8-47cb-9c15-1110473b3d71.json": {
             "size": 201,
@@ -13184,8 +13151,7 @@
         },
         "assets/ab_ui_miniGame/import/d1/d1ca4c74-e273-4f5c-9829-370090b6e276.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/d3/d33643e2-4b4e-4986-9157-c6363d6ac23f.json": {
             "size": 86,
@@ -13197,8 +13163,7 @@
         },
         "assets/ab_ui_miniGame/import/d3/d3cecd8c-6ee6-4d23-bffa-88a7fd8ae1d1.json": {
             "size": 198,
-            "md5": "fbcd346f675397274eae7bdd5b0addeb",
-            "downloadState": 2
+            "md5": "fbcd346f675397274eae7bdd5b0addeb"
         },
         "assets/ab_ui_miniGame/import/d4/d43e4fc6-644b-465d-80cc-2f39ad46290e.json": {
             "size": 200,
@@ -13298,8 +13263,7 @@
         },
         "assets/ab_ui_miniGame/import/e2/e2b0a301-c1b2-413d-9cf1-e79ed9914a36.json": {
             "size": 202,
-            "md5": "690ced656107d9d415f97c2a3ba74154",
-            "downloadState": 2
+            "md5": "690ced656107d9d415f97c2a3ba74154"
         },
         "assets/ab_ui_miniGame/import/e3/e310373f-cbed-4835-bc3b-e418c9a3a934.json": {
             "size": 200,
@@ -13311,8 +13275,7 @@
         },
         "assets/ab_ui_miniGame/import/e4/e42e5b6d-1016-4900-8bde-15f393d0e12f.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/e5/e5f19347-f2d4-4df3-ac10-f48f595faf4b.json": {
             "size": 86,
@@ -13328,8 +13291,7 @@
         },
         "assets/ab_ui_miniGame/import/e9/e9c46143-cbf6-4408-855c-080f04fb4161.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/ea/ea473652-53f2-43da-8ea1-0b0c6ff85a88.json": {
             "size": 86,
@@ -13353,8 +13315,7 @@
         },
         "assets/ab_ui_miniGame/import/ed/edbf8057-0c09-4335-8e42-920e08bda712.json": {
             "size": 204,
-            "md5": "ffc42a871aa9f9442d80eaae7a70f6f5",
-            "downloadState": 2
+            "md5": "ffc42a871aa9f9442d80eaae7a70f6f5"
         },
         "assets/ab_ui_miniGame/import/ed/edc0fcd5-fae7-4f2d-a4d9-b57c4a0f2d7b.json": {
             "size": 86,
@@ -13370,8 +13331,7 @@
         },
         "assets/ab_ui_miniGame/import/ee/ee555fd2-fa1f-4515-8aaa-da7472507f09.json": {
             "size": 200,
-            "md5": "055c39e928a78459307879352479f688",
-            "downloadState": 2
+            "md5": "055c39e928a78459307879352479f688"
         },
         "assets/ab_ui_miniGame/import/f0/f0f2e3e1-602d-429d-9d4c-66c902e25013.json": {
             "size": 86,
@@ -13407,13 +13367,11 @@
         },
         "assets/ab_ui_miniGame/import/f7/f7421181-3b73-4fba-8a10-5bd75326464b.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/f8/f82f845c-e395-4285-9716-ddf4d9ee94cd.json": {
             "size": 203,
-            "md5": "aed2fbfc1dad851014a3d381116ce997",
-            "downloadState": 2
+            "md5": "aed2fbfc1dad851014a3d381116ce997"
         },
         "assets/ab_ui_miniGame/import/f8/f834848d-e809-496c-a12a-b42130666d41.json": {
             "size": 86,
@@ -13429,8 +13387,7 @@
         },
         "assets/ab_ui_miniGame/import/f9/f9931f35-00fd-40d8-a460-5e37f3064e82.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/f9/f9f047f9-2612-4c4c-8504-9c43b76c7e4e.json": {
             "size": 86,
@@ -13454,13 +13411,11 @@
         },
         "assets/ab_ui_miniGame/import/fd/fdf55104-24bc-4503-86b4-914a3d3efba8.json": {
             "size": 200,
-            "md5": "af05cbb5ba577183c5e994b6c71d3f9a",
-            "downloadState": 2
+            "md5": "af05cbb5ba577183c5e994b6c71d3f9a"
         },
         "assets/ab_ui_miniGame/import/ff/ff810ffc-629b-4715-ba93-2e4a583468eb.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/ff/ff833bd1-45f6-4da6-b293-ec1aff8ae592.json": {
             "size": 202,
@@ -13560,8 +13515,7 @@
         },
         "assets/ab_ui_miniGame/native/1c/1caa01da-5d5a-43f0-b3d4-4834d0b615b2.png": {
             "size": 293856,
-            "md5": "8d2e246cbed0d0b18c14f710dad5439d",
-            "downloadState": 2
+            "md5": "8d2e246cbed0d0b18c14f710dad5439d"
         },
         "assets/ab_ui_miniGame/native/1c/1cd79733-faa5-4530-abf6-af3941909378.png": {
             "size": 17555,
@@ -13617,8 +13571,7 @@
         },
         "assets/ab_ui_miniGame/native/30/30d3c236-2ca3-4a70-b4ef-885f935b0709.png": {
             "size": 248291,
-            "md5": "e05b4f8b5adb052dfb50e28a6a557c68",
-            "downloadState": 2
+            "md5": "e05b4f8b5adb052dfb50e28a6a557c68"
         },
         "assets/ab_ui_miniGame/native/31/318dd6c0-4d05-4a68-9fda-b8d122f49bc4.png": {
             "size": 290820,
@@ -13646,8 +13599,7 @@
         },
         "assets/ab_ui_miniGame/native/41/41d939a5-a153-48a6-9997-88ae864a34bb.png": {
             "size": 15385,
-            "md5": "8dd6fea4ed0ae96ebb415d03cb9a2989",
-            "downloadState": 2
+            "md5": "8dd6fea4ed0ae96ebb415d03cb9a2989"
         },
         "assets/ab_ui_miniGame/native/41/41dd3b3d-301f-4f34-af7b-df54ab730afc.png": {
             "size": 17555,
@@ -13739,8 +13691,7 @@
         },
         "assets/ab_ui_miniGame/native/57/572588f2-0ace-40ba-b3ed-48f59b9dfbcc.png": {
             "size": 279660,
-            "md5": "688c19c8b118da676a9a96360070a06f",
-            "downloadState": 2
+            "md5": "688c19c8b118da676a9a96360070a06f"
         },
         "assets/ab_ui_miniGame/native/5e/5e66090d-cbcb-44d3-b926-998a5988e43e.png": {
             "size": 18919,
@@ -13768,8 +13719,7 @@
         },
         "assets/ab_ui_miniGame/native/68/68443fd8-decd-42f9-a2dc-97e0a237092d.png": {
             "size": 14004,
-            "md5": "51d2ddc467e6ccfd401912ca2ab784ff",
-            "downloadState": 2
+            "md5": "51d2ddc467e6ccfd401912ca2ab784ff"
         },
         "assets/ab_ui_miniGame/native/68/68c6992a-6755-4437-a357-d1aee47c41af.png": {
             "size": 303019,
@@ -13777,8 +13727,7 @@
         },
         "assets/ab_ui_miniGame/native/6b/6b454712-489b-4003-bc28-dceb5fbad473.png": {
             "size": 12417,
-            "md5": "5fdd012d60be5dfabedcf39522c39c62",
-            "downloadState": 2
+            "md5": "5fdd012d60be5dfabedcf39522c39c62"
         },
         "assets/ab_ui_miniGame/native/6c/6ce23feb-1d17-4d24-968a-78000312e642.png": {
             "size": 15385,
@@ -13790,8 +13739,7 @@
         },
         "assets/ab_ui_miniGame/native/74/74f74143-da53-4239-80ad-10322c917d69.png": {
             "size": 11511,
-            "md5": "2211fe12c9b72093e5576602924c9f30",
-            "downloadState": 2
+            "md5": "2211fe12c9b72093e5576602924c9f30"
         },
         "assets/ab_ui_miniGame/native/76/76def1d1-e230-40fd-8711-93b6053b792b.png": {
             "size": 18919,
@@ -13823,8 +13771,7 @@
         },
         "assets/ab_ui_miniGame/native/7c/7c803a57-8df0-427c-bbc8-ca816cabbb0a.png": {
             "size": 18639,
-            "md5": "2ebd8739a604a67de355b2e25db40347",
-            "downloadState": 2
+            "md5": "2ebd8739a604a67de355b2e25db40347"
         },
         "assets/ab_ui_miniGame/native/7d/7d56995b-1e7e-46a9-adf9-dc40d6a49d60.png": {
             "size": 290820,
@@ -13884,8 +13831,7 @@
         },
         "assets/ab_ui_miniGame/native/9c/9c6303e0-8b35-40fe-b90d-f01a4a6a28f8.png": {
             "size": 262875,
-            "md5": "7e46e3b0b4fe7a37f8035590843f3aa5",
-            "downloadState": 2
+            "md5": "7e46e3b0b4fe7a37f8035590843f3aa5"
         },
         "assets/ab_ui_miniGame/native/a0/a0089e57-ed1b-42b6-846c-dbf501cd87f1.png": {
             "size": 15385,
@@ -13901,8 +13847,7 @@
         },
         "assets/ab_ui_miniGame/native/a8/a821641d-3bf3-402f-8b54-e68749d641bb.png": {
             "size": 7124,
-            "md5": "706a719c4271dadf39147fa53c18fec3",
-            "downloadState": 2
+            "md5": "706a719c4271dadf39147fa53c18fec3"
         },
         "assets/ab_ui_miniGame/native/aa/aa3a5717-4462-489c-a6ce-1664110cc14b.png": {
             "size": 225158,
@@ -14006,8 +13951,7 @@
         },
         "assets/ab_ui_miniGame/native/d1/d1ca4c74-e273-4f5c-9829-370090b6e276.png": {
             "size": 14340,
-            "md5": "51f8a9720ff3a7dbede2eb121852abc4",
-            "downloadState": 2
+            "md5": "51f8a9720ff3a7dbede2eb121852abc4"
         },
         "assets/ab_ui_miniGame/native/d3/d33643e2-4b4e-4986-9157-c6363d6ac23f.png": {
             "size": 248291,
@@ -14075,8 +14019,7 @@
         },
         "assets/ab_ui_miniGame/native/e4/e42e5b6d-1016-4900-8bde-15f393d0e12f.png": {
             "size": 273862,
-            "md5": "ed828873a2b8eb91cbe235840daca4e3",
-            "downloadState": 2
+            "md5": "ed828873a2b8eb91cbe235840daca4e3"
         },
         "assets/ab_ui_miniGame/native/e5/e5f19347-f2d4-4df3-ac10-f48f595faf4b.png": {
             "size": 18639,
@@ -14088,8 +14031,7 @@
         },
         "assets/ab_ui_miniGame/native/e9/e9c46143-cbf6-4408-855c-080f04fb4161.png": {
             "size": 13861,
-            "md5": "433d33f9483c4cc9fef6933ceb705528",
-            "downloadState": 2
+            "md5": "433d33f9483c4cc9fef6933ceb705528"
         },
         "assets/ab_ui_miniGame/native/ea/ea473652-53f2-43da-8ea1-0b0c6ff85a88.png": {
             "size": 303019,
@@ -14129,8 +14071,7 @@
         },
         "assets/ab_ui_miniGame/native/f7/f7421181-3b73-4fba-8a10-5bd75326464b.png": {
             "size": 303019,
-            "md5": "aacacd8c027d72f717271450f4ad2766",
-            "downloadState": 2
+            "md5": "aacacd8c027d72f717271450f4ad2766"
         },
         "assets/ab_ui_miniGame/native/f8/f834848d-e809-496c-a12a-b42130666d41.png": {
             "size": 332905,
@@ -14142,8 +14083,7 @@
         },
         "assets/ab_ui_miniGame/native/f9/f9931f35-00fd-40d8-a460-5e37f3064e82.png": {
             "size": 12266,
-            "md5": "28c44f170cdfaeb1999e28069c46dcb8",
-            "downloadState": 2
+            "md5": "28c44f170cdfaeb1999e28069c46dcb8"
         },
         "assets/ab_ui_miniGame/native/f9/f9f047f9-2612-4c4c-8504-9c43b76c7e4e.png": {
             "size": 293856,
@@ -14167,8 +14107,7 @@
         },
         "assets/ab_ui_miniGame/native/ff/ff810ffc-629b-4715-ba93-2e4a583468eb.png": {
             "size": 16924,
-            "md5": "133d69e06db66c7c244825905e8080db",
-            "downloadState": 2
+            "md5": "133d69e06db66c7c244825905e8080db"
         },
         "assets/ab_ui_miniGame/native/ff/ff8ba2e7-0388-439e-b975-cd642adeb55a.png": {
             "size": 12266,
@@ -14404,8 +14343,7 @@
         },
         "assets/ab_ui_spr_common1/config.json": {
             "size": 6025,
-            "md5": "60c8ad9ee98ea9f1d9849d1c100a5206",
-            "downloadState": 2
+            "md5": "60c8ad9ee98ea9f1d9849d1c100a5206"
         },
         "assets/ab_ui_spr_common1/import/35/35bf0bc8-4e34-4668-9e64-2170ceddcdeb.json": {
             "size": 68,
@@ -25036,8 +24974,8 @@
             "md5": "6fe44bafa6c6b24638ec18212f1605fc"
         },
         "assets/main/index.jsc": {
-            "size": 1113108,
-            "md5": "781f31b5fdd643d3f0e62ef72a50408c",
+            "size": 1113184,
+            "md5": "056bae21608a61920e8657969b70c85c",
             "downloadState": 2
         },
         "assets/main/native/38/384fb871-5baf-4517-836e-09fe930cd74c.bin": {
@@ -25094,8 +25032,7 @@
         },
         "assets/resources/config.json": {
             "size": 145202,
-            "md5": "6d9b6dfcfc13c440291a14952e18b0ed",
-            "downloadState": 2
+            "md5": "6d9b6dfcfc13c440291a14952e18b0ed"
         },
         "assets/resources/import/00/00022c25-cc8f-47bf-94ab-b195f99ba01b.json": {
             "size": 122,
@@ -25787,7 +25724,7 @@
         },
         "assets/resources/import/0a/0ab57770-5dbe-4856-8d99-02103489e784.json": {
             "size": 798,
-            "md5": "bbcfd49f708b6edbdf2da07003ce6b77",
+            "md5": "5ae96517bab7aed562021bbecfb7217e",
             "downloadState": 2
         },
         "assets/resources/import/0a/0ab6bc5e-2e3a-4f47-8fbb-f3427153567e.json": {
@@ -26656,8 +26593,7 @@
         },
         "assets/resources/import/18/1829752a-0d78-437f-8db7-e9eceb1f7215.json": {
             "size": 196,
-            "md5": "65127125b95378a87d6cace11f58a0ab",
-            "downloadState": 2
+            "md5": "65127125b95378a87d6cace11f58a0ab"
         },
         "assets/resources/import/18/184a6f9e-8f16-47f8-abbe-a98494e2b736.json": {
             "size": 3845,
@@ -27185,8 +27121,7 @@
         },
         "assets/resources/import/20/203dd8f9-1a72-4009-ac66-83fa12b2e8d8.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/resources/import/20/204059e1-525c-4fe9-afb4-7a1400663862.json": {
             "size": 86,
@@ -27222,8 +27157,7 @@
         },
         "assets/resources/import/20/208b0dcd-24b1-4ee7-b8ca-3f9d291b4e7e.json": {
             "size": 201,
-            "md5": "0e864d86596e80309d2e41db6315256d",
-            "downloadState": 2
+            "md5": "0e864d86596e80309d2e41db6315256d"
         },
         "assets/resources/import/20/209623ec-5007-4259-a2f0-da356ddda7a5.json": {
             "size": 86,
@@ -27855,8 +27789,7 @@
         },
         "assets/resources/import/2a/2ae20f68-522a-4967-8762-a1d50d50086b.json": {
             "size": 195,
-            "md5": "29cdf4a63de86b74b02b575ebae094e6",
-            "downloadState": 2
+            "md5": "29cdf4a63de86b74b02b575ebae094e6"
         },
         "assets/resources/import/2a/2af31315-9dac-4b45-93ce-2bdf9eb43b66.json": {
             "size": 86,
@@ -28376,8 +28309,7 @@
         },
         "assets/resources/import/34/3446fb16-4130-42f3-98ed-2df6cadaea27.json": {
             "size": 12815,
-            "md5": "1e544a6fbd01218168212ff9b199957c",
-            "downloadState": 2
+            "md5": "1e544a6fbd01218168212ff9b199957c"
         },
         "assets/resources/import/34/345b8f5b-0dcb-44ac-be92-02650eae43bb.json": {
             "size": 86,
@@ -29217,8 +29149,7 @@
         },
         "assets/resources/import/40/406a2085-d690-4659-a708-3fad3c45100c.json": {
             "size": 8227,
-            "md5": "842a45940c440d2479b6ec0e376fcc21",
-            "downloadState": 2
+            "md5": "842a45940c440d2479b6ec0e376fcc21"
         },
         "assets/resources/import/40/407af57c-0bc1-4e7c-b886-5f5bd20b2aa4.json": {
             "size": 161,
@@ -31606,8 +31537,7 @@
         },
         "assets/resources/import/64/645d6ec4-8c15-49e6-afa8-5d561894234f.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/resources/import/64/647614c7-1bba-4e87-ad64-44b664eb6b6a.json": {
             "size": 86,
@@ -32067,8 +31997,7 @@
         },
         "assets/resources/import/6b/6b972a6d-d468-4be4-bbc7-1a5498876629.json": {
             "size": 196,
-            "md5": "151429980ec75e31ace34a934a4de194",
-            "downloadState": 2
+            "md5": "151429980ec75e31ace34a934a4de194"
         },
         "assets/resources/import/6b/6b9af9f4-5ee3-4447-a4f0-7faf694dbdcc.json": {
             "size": 6094,
@@ -33424,8 +33353,7 @@
         },
         "assets/resources/import/80/803ec4f5-0581-414c-b00a-53210b70d24b.json": {
             "size": 76970,
-            "md5": "8e855d151f7ca277d3c618f2e7c54ce5",
-            "downloadState": 2
+            "md5": "8e855d151f7ca277d3c618f2e7c54ce5"
         },
         "assets/resources/import/80/8042243c-e4c2-4be4-8919-b9dbebc8cbaf.json": {
             "size": 123,
@@ -34921,8 +34849,7 @@
         },
         "assets/resources/import/94/94592adf-3c6b-4d5f-8c84-24599e56c5c5.json": {
             "size": 7546,
-            "md5": "d7764bb461fe5ab73a523ba2096e4610",
-            "downloadState": 2
+            "md5": "d7764bb461fe5ab73a523ba2096e4610"
         },
         "assets/resources/import/94/947dbef3-adee-41e0-ab32-dc4bc53cca1c.json": {
             "size": 123,
@@ -38157,8 +38084,8 @@
             "md5": "b2d1e4cd68a38482e3806afd0d247ec9"
         },
         "assets/resources/import/c4/c4e10e43-a468-49f3-bfa6-24616822ccb5.json": {
-            "size": 1483589,
-            "md5": "017fb331c1f15ce68947654b83671b1a",
+            "size": 1484023,
+            "md5": "bfa272f625cd3daf32b39ef593d311fe",
             "downloadState": 2
         },
         "assets/resources/import/c4/c4f57a6f-acdf-414c-8a4f-8ef8d1fa4bc5.json": {
@@ -39823,8 +39750,7 @@
         },
         "assets/resources/import/df/df8c217b-e9d1-4619-a0e0-640dc08c16f9.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/resources/import/df/df8ed2d9-82b9-4779-8ffc-922e11d52765.json": {
             "size": 131,
@@ -41120,8 +41046,7 @@
         },
         "assets/resources/import/f4/f4a79edb-05db-4269-9b8d-78941c6d1344.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/resources/import/f4/f4d2ce7f-5f1a-45a3-bf4f-d97e8094ac33.json": {
             "size": 86,
@@ -42025,8 +41950,7 @@
         },
         "assets/resources/native/03/03b13349-9bc7-4a95-a435-8ec518265b1e.bin": {
             "size": 1073,
-            "md5": "3a4b5d5a41a3c8e3e1d16423ea01c241",
-            "downloadState": 2
+            "md5": "3a4b5d5a41a3c8e3e1d16423ea01c241"
         },
         "assets/resources/native/03/03dbb9d7-9246-4c82-be74-fe78c72c1b72.png": {
             "size": 192,
@@ -42062,8 +41986,7 @@
         },
         "assets/resources/native/04/04c0019f-0756-4f26-8e95-8024cdee140c.bin": {
             "size": 568,
-            "md5": "f300d54ee0857fa0dce70dd578f4163b",
-            "downloadState": 2
+            "md5": "f300d54ee0857fa0dce70dd578f4163b"
         },
         "assets/resources/native/05/050ebb4b-7290-49fc-b47e-f5da3e5caa1f.png": {
             "size": 8804,
@@ -42135,8 +42058,7 @@
         },
         "assets/resources/native/06/06573087-62d4-4713-bc42-9acaf9b1cc2c.bin": {
             "size": 28243,
-            "md5": "f132615094dc248996036bdba6f1a371",
-            "downloadState": 2
+            "md5": "f132615094dc248996036bdba6f1a371"
         },
         "assets/resources/native/06/06582b85-969e-4b90-bdd2-0c598ef98269.png": {
             "size": 604,
@@ -42248,8 +42170,7 @@
         },
         "assets/resources/native/0a/0a632279-a110-4eba-9ec9-ac06e627823d.bin": {
             "size": 540,
-            "md5": "558d2efe78e3d5ccde8b3ad1040c6fed",
-            "downloadState": 2
+            "md5": "558d2efe78e3d5ccde8b3ad1040c6fed"
         },
         "assets/resources/native/0a/0a6c0271-0301-47cc-9e8b-28b2e3c7b371.png": {
             "size": 1756,
@@ -42289,8 +42210,7 @@
         },
         "assets/resources/native/0b/0bb634fa-3768-4d6a-85db-40b62abd8f53.bin": {
             "size": 288968,
-            "md5": "495884ecd304d647392209fcc30ecfc7",
-            "downloadState": 2
+            "md5": "495884ecd304d647392209fcc30ecfc7"
         },
         "assets/resources/native/0b/0bc53f7a-17a5-4c70-bc50-fd579e2d54d5.bin": {
             "size": 2708,
@@ -42406,8 +42326,7 @@
         },
         "assets/resources/native/0e/0ec627d6-9d7c-471d-a9d6-89e55ec319aa.bin": {
             "size": 28243,
-            "md5": "f132615094dc248996036bdba6f1a371",
-            "downloadState": 2
+            "md5": "f132615094dc248996036bdba6f1a371"
         },
         "assets/resources/native/0e/0ee6c0b6-e282-498b-8a77-83b353e32c8c.png": {
             "size": 732,
@@ -42570,8 +42489,8 @@
             "md5": "15b149b64377aabbcfc1a4d4470630f5"
         },
         "assets/resources/native/14/14db62f3-35fe-4abf-b7e0-e7cebc52817c.bin": {
-            "size": 3222,
-            "md5": "74c62c050b157e7fa19487c879ea7d8d",
+            "size": 3243,
+            "md5": "a199c288f4d4cee4b02c98ffe790a4de",
             "downloadState": 2
         },
         "assets/resources/native/14/14ed626a-7d62-4268-80ec-8fa0b896bd9a.png": {
@@ -42624,8 +42543,7 @@
         },
         "assets/resources/native/16/16664570-beb3-44f8-b953-21e28950e04e.bin": {
             "size": 195035,
-            "md5": "974e8326d1426a7141579864cad3326d",
-            "downloadState": 2
+            "md5": "974e8326d1426a7141579864cad3326d"
         },
         "assets/resources/native/16/16701255-b9be-4088-8e03-5207e49177f8.bin": {
             "size": 55,
@@ -42653,8 +42571,7 @@
         },
         "assets/resources/native/16/16e5e1d6-fe70-4dc8-8fcc-f7b6c91c5658.bin": {
             "size": 293,
-            "md5": "31ff0e466f626600ecfb3a6443d1e7a0",
-            "downloadState": 2
+            "md5": "31ff0e466f626600ecfb3a6443d1e7a0"
         },
         "assets/resources/native/16/16ed1486-c3d2-4240-9b98-ab3758e84312.png": {
             "size": 12332,
@@ -42718,8 +42635,7 @@
         },
         "assets/resources/native/18/18bf2d99-00bd-4fcd-89d3-9554c62c4830.bin": {
             "size": 1326,
-            "md5": "42f66a5e35b090c97443cc0d0100c972",
-            "downloadState": 2
+            "md5": "42f66a5e35b090c97443cc0d0100c972"
         },
         "assets/resources/native/18/18dfa7d2-be63-43fa-a73d-36219b079f36.jpg": {
             "size": 115375,
@@ -42927,8 +42843,7 @@
         },
         "assets/resources/native/1e/1e480774-ec70-45f1-a184-d42265330c6d.bin": {
             "size": 288968,
-            "md5": "495884ecd304d647392209fcc30ecfc7",
-            "downloadState": 2
+            "md5": "495884ecd304d647392209fcc30ecfc7"
         },
         "assets/resources/native/1e/1e6d55fe0.png": {
             "size": 955609,
@@ -42976,8 +42891,7 @@
         },
         "assets/resources/native/20/203dd8f9-1a72-4009-ac66-83fa12b2e8d8.png": {
             "size": 1609,
-            "md5": "038a10fa14adee3debd8365d0b02f469",
-            "downloadState": 2
+            "md5": "038a10fa14adee3debd8365d0b02f469"
         },
         "assets/resources/native/20/204059e1-525c-4fe9-afb4-7a1400663862.png": {
             "size": 2672,
@@ -43085,8 +42999,7 @@
         },
         "assets/resources/native/23/231edfdf-f85f-44eb-9cb1-b4f51b19c97e.bin": {
             "size": 195035,
-            "md5": "974e8326d1426a7141579864cad3326d",
-            "downloadState": 2
+            "md5": "974e8326d1426a7141579864cad3326d"
         },
         "assets/resources/native/23/23210ce7-f3ce-4836-9b75-ba006fbc7d63.png": {
             "size": 225,
@@ -43265,8 +43178,8 @@
             "md5": "f5b829a6744b5542d966456f9a2dfe2b"
         },
         "assets/resources/native/27/27ce5fec-d6b7-4e2e-9dfa-83dc0fbc60f7.bin": {
-            "size": 3222,
-            "md5": "74c62c050b157e7fa19487c879ea7d8d",
+            "size": 3243,
+            "md5": "a199c288f4d4cee4b02c98ffe790a4de",
             "downloadState": 2
         },
         "assets/resources/native/28/280cd2e7-4f5d-4189-aa50-e4bb01fa5861.jpg": {
@@ -43275,8 +43188,7 @@
         },
         "assets/resources/native/28/28198459-6dc1-4050-99e8-f071f526a74e.bin": {
             "size": 1961,
-            "md5": "3b863f89c29ac8208d486fbde97e0b34",
-            "downloadState": 2
+            "md5": "3b863f89c29ac8208d486fbde97e0b34"
         },
         "assets/resources/native/28/28338442-76f0-4505-9d99-f0d003fc15d4.png": {
             "size": 4007,
@@ -43420,8 +43332,7 @@
         },
         "assets/resources/native/2c/2c4a73fd-af1d-49c8-93ef-754ede7d508d.bin": {
             "size": 745,
-            "md5": "2edccee6914388911ce03f8aee8b023a",
-            "downloadState": 2
+            "md5": "2edccee6914388911ce03f8aee8b023a"
         },
         "assets/resources/native/2c/2c5ea88b-6adf-4d8e-8cf0-37a405ec6e44.png": {
             "size": 549,
@@ -43465,8 +43376,7 @@
         },
         "assets/resources/native/2d/2d7925a6-3012-485e-bc82-ffd2dca12da4.bin": {
             "size": 1073,
-            "md5": "3a4b5d5a41a3c8e3e1d16423ea01c241",
-            "downloadState": 2
+            "md5": "3a4b5d5a41a3c8e3e1d16423ea01c241"
         },
         "assets/resources/native/2d/2d9acf34-2747-4701-9ef5-404267bfd789.mp3": {
             "size": 58558,
@@ -43498,8 +43408,7 @@
         },
         "assets/resources/native/2e/2ef76948-dc46-4c93-ae46-199edc6174ef.bin": {
             "size": 200883,
-            "md5": "9ff3db6ec3031c8fa014cda85a6221c3",
-            "downloadState": 2
+            "md5": "9ff3db6ec3031c8fa014cda85a6221c3"
         },
         "assets/resources/native/2f/2f2e0209-5f80-44dd-ad66-c89b1bb57967.png": {
             "size": 1274,
@@ -43627,8 +43536,7 @@
         },
         "assets/resources/native/33/33a119a2-eb64-4e3b-a5ec-a6f7e791148f.bin": {
             "size": 293,
-            "md5": "31ff0e466f626600ecfb3a6443d1e7a0",
-            "downloadState": 2
+            "md5": "31ff0e466f626600ecfb3a6443d1e7a0"
         },
         "assets/resources/native/33/33b794c1-7c85-4cbd-a8cf-956e0aa1c035.png": {
             "size": 8313,
@@ -43736,8 +43644,7 @@
         },
         "assets/resources/native/37/378b44cb-eefc-44bb-9a91-da8801eb2c45.bin": {
             "size": 359,
-            "md5": "a1ea8e59e1b59ccbb92e881c22f2e53e",
-            "downloadState": 2
+            "md5": "a1ea8e59e1b59ccbb92e881c22f2e53e"
         },
         "assets/resources/native/37/37b7c30d-2d6c-442f-96d2-e07d2dac864b.png": {
             "size": 7720,
@@ -43861,7 +43768,7 @@
         },
         "assets/resources/native/3b/3b4469b3-b48b-4d35-b7bc-54d6bfb89f96.bin": {
             "size": 62,
-            "md5": "c0c60361cd406a2ef72ebf94cc37ad66",
+            "md5": "839436d9b67b453bcd69fb9e756ad76b",
             "downloadState": 2
         },
         "assets/resources/native/3b/3b5d5ae5-08f5-4154-bf7e-1a6b1ee21507.bin": {
@@ -43990,8 +43897,7 @@
         },
         "assets/resources/native/3f/3f14ff99-f14e-4664-a566-34f6c40a6c3e.bin": {
             "size": 1938,
-            "md5": "b6dab3c59fb4c7dd94295c6183781501",
-            "downloadState": 2
+            "md5": "b6dab3c59fb4c7dd94295c6183781501"
         },
         "assets/resources/native/3f/3f3b478d-78a4-49e9-a11c-586e34e3149a.bin": {
             "size": 513,
@@ -44034,8 +43940,8 @@
             "md5": "42df25cfd94168ef2bdb70663dc6acac"
         },
         "assets/resources/native/40/40874bd2-0ef3-4d47-9b5a-dfe0a7704a82.bin": {
-            "size": 64210,
-            "md5": "df9513d9e4ad50c8f4288c993bc92ec6",
+            "size": 85610,
+            "md5": "e87f2d5275330e7b9d0f7b84c9359004",
             "downloadState": 2
         },
         "assets/resources/native/40/40c7aa15-8070-40a9-818b-93cfeac1a517.png": {
@@ -44172,8 +44078,7 @@
         },
         "assets/resources/native/44/44cb751b-4761-46f7-9f4c-0561c36d66e8.bin": {
             "size": 17700,
-            "md5": "a6a46e590bdf312d43f4f995e7862a18",
-            "downloadState": 2
+            "md5": "a6a46e590bdf312d43f4f995e7862a18"
         },
         "assets/resources/native/44/44f1e7cb-32b0-4f85-a95e-559f32c4321b.png": {
             "size": 59516,
@@ -44249,8 +44154,7 @@
         },
         "assets/resources/native/47/4739509d-bd50-42fc-8036-efc3aad0c085.bin": {
             "size": 24069,
-            "md5": "d34c4453203a071e01352ed2685bf818",
-            "downloadState": 2
+            "md5": "d34c4453203a071e01352ed2685bf818"
         },
         "assets/resources/native/47/474b6151-18ff-4c2e-ac4c-202094576467.png": {
             "size": 914,
@@ -44378,7 +44282,8 @@
         },
         "assets/resources/native/49/4980cae1-2aa1-4328-bc90-077e787709ff.bin": {
             "size": 1770,
-            "md5": "d77bfa5018be9586c8498d9daedbb5c7"
+            "md5": "69dc3b230f34c78079211368e3f366e9",
+            "downloadState": 2
         },
         "assets/resources/native/49/4981dfe9-b735-4b2d-8e23-b815528b6730.png": {
             "size": 2613,
@@ -44614,8 +44519,7 @@
         },
         "assets/resources/native/4f/4fe98dbc-2207-4605-9380-42fdd6f4fb9f.bin": {
             "size": 5705,
-            "md5": "245c3c0890255ffb8a090ac167997051",
-            "downloadState": 2
+            "md5": "245c3c0890255ffb8a090ac167997051"
         },
         "assets/resources/native/50/50310a6b-c48f-4711-ae51-15ccdb294d1a.png": {
             "size": 110456,
@@ -44691,8 +44595,7 @@
         },
         "assets/resources/native/51/51cf0ef5-fd02-4f68-b396-8262af12c192.bin": {
             "size": 621,
-            "md5": "0da2147e70c0f5498b24110868fad260",
-            "downloadState": 2
+            "md5": "0da2147e70c0f5498b24110868fad260"
         },
         "assets/resources/native/51/51d94eed-7ba6-4c24-a923-db0cb1c06007.png": {
             "size": 2783,
@@ -44788,7 +44691,8 @@
         },
         "assets/resources/native/54/54b20fc5-f493-4c90-90ee-9ba33ae8dcc7.bin": {
             "size": 1490,
-            "md5": "761b12499bd29869dc9f9215f3495ce9"
+            "md5": "13c883012ab784c31ec61648f5acd15a",
+            "downloadState": 2
         },
         "assets/resources/native/54/54b23c81-4f8f-4a33-b248-ab673ee68000.png": {
             "size": 91,
@@ -45012,8 +44916,7 @@
         },
         "assets/resources/native/5b/5b4f3951-56b3-4c46-a8b2-0c61ee0a948f.bin": {
             "size": 568,
-            "md5": "f300d54ee0857fa0dce70dd578f4163b",
-            "downloadState": 2
+            "md5": "f300d54ee0857fa0dce70dd578f4163b"
         },
         "assets/resources/native/5b/5b95820a-c21f-46bb-9cf6-a7f69d4e9136.png": {
             "size": 717,
@@ -45025,8 +44928,7 @@
         },
         "assets/resources/native/5b/5bea52be-f9ea-4a66-955f-80d62e0d4c10.bin": {
             "size": 540,
-            "md5": "558d2efe78e3d5ccde8b3ad1040c6fed",
-            "downloadState": 2
+            "md5": "558d2efe78e3d5ccde8b3ad1040c6fed"
         },
         "assets/resources/native/5b/5bef10e4-5c0c-4e43-a123-868590442b71.png": {
             "size": 1727,
@@ -45070,8 +44972,7 @@
         },
         "assets/resources/native/5d/5dc21283-f4d9-4919-9ffb-ade0156703f3.bin": {
             "size": 351,
-            "md5": "2b309c4d1b2b5ec2dc5aecaae9aa38f9",
-            "downloadState": 2
+            "md5": "2b309c4d1b2b5ec2dc5aecaae9aa38f9"
         },
         "assets/resources/native/5d/5dee146f-1947-4a92-94ae-5c2a5d9b74aa.png": {
             "size": 574,
@@ -45123,8 +45024,7 @@
         },
         "assets/resources/native/5f/5f2ecb44-9b97-41be-aadd-c4e1dc8f4752.bin": {
             "size": 200883,
-            "md5": "9ff3db6ec3031c8fa014cda85a6221c3",
-            "downloadState": 2
+            "md5": "9ff3db6ec3031c8fa014cda85a6221c3"
         },
         "assets/resources/native/5f/5f61d736-cb23-41b6-9838-b50773e1c28d.png": {
             "size": 15560,
@@ -45208,8 +45108,7 @@
         },
         "assets/resources/native/61/6178ada6-90ee-4e19-a356-5995bf8cc663.bin": {
             "size": 783,
-            "md5": "38fc7464e8857ce8998f65c0bc9a0205",
-            "downloadState": 2
+            "md5": "38fc7464e8857ce8998f65c0bc9a0205"
         },
         "assets/resources/native/61/61ac362f-8777-4969-b307-13432e24cc1d.png": {
             "size": 8191,
@@ -45349,8 +45248,7 @@
         },
         "assets/resources/native/64/645d6ec4-8c15-49e6-afa8-5d561894234f.png": {
             "size": 2036,
-            "md5": "045c7d6dccb5a4e650347d2c378ce3df",
-            "downloadState": 2
+            "md5": "045c7d6dccb5a4e650347d2c378ce3df"
         },
         "assets/resources/native/64/647614c7-1bba-4e87-ad64-44b664eb6b6a.png": {
             "size": 2985,
@@ -45522,8 +45420,7 @@
         },
         "assets/resources/native/6a/6a0220e9-6559-4054-8413-ba9de63a17e9.bin": {
             "size": 1326,
-            "md5": "42f66a5e35b090c97443cc0d0100c972",
-            "downloadState": 2
+            "md5": "42f66a5e35b090c97443cc0d0100c972"
         },
         "assets/resources/native/6a/6a062470-0bf0-4082-a15a-ba8c566c64b4.png": {
             "size": 26529,
@@ -45562,8 +45459,9 @@
             "md5": "f48c0068a17c0cf501df75c183537683"
         },
         "assets/resources/native/6a/6abb75b8-79cd-4407-addf-596ad46fd36a.bin": {
-            "size": 11444,
-            "md5": "7c3c8aa32a620235e8a9febd097bc5c8"
+            "size": 11437,
+            "md5": "059b4172ca2acef1736e4c14277e2d3d",
+            "downloadState": 2
         },
         "assets/resources/native/6a/6afd8c12-ed12-41ad-bb6f-033a8d6b8333.png": {
             "size": 892,
@@ -45715,8 +45613,7 @@
         },
         "assets/resources/native/6f/6f1b39ac-d433-4d8d-99b2-f77df4d5b0dd.bin": {
             "size": 273,
-            "md5": "a654f97dd12c16d489135283d11f8f17",
-            "downloadState": 2
+            "md5": "a654f97dd12c16d489135283d11f8f17"
         },
         "assets/resources/native/6f/6f1ffc7d-5c82-4086-9086-032448299f72.jpg": {
             "size": 4326,
@@ -45856,7 +45753,7 @@
         },
         "assets/resources/native/73/73bb1939-eb62-4f07-b0d2-4572459e47d4.bin": {
             "size": 62,
-            "md5": "c0c60361cd406a2ef72ebf94cc37ad66",
+            "md5": "839436d9b67b453bcd69fb9e756ad76b",
             "downloadState": 2
         },
         "assets/resources/native/73/73c02496-e70c-48e3-b1e7-4f4e71370aac.png": {
@@ -45945,8 +45842,7 @@
         },
         "assets/resources/native/75/75848b7f-f995-4629-b874-db29562c6886.bin": {
             "size": 110661,
-            "md5": "af731ccd1a445862482f123fb8fbb914",
-            "downloadState": 2
+            "md5": "af731ccd1a445862482f123fb8fbb914"
         },
         "assets/resources/native/75/7592f560-57ff-4737-8f23-9c008c141d62.png": {
             "size": 5838,
@@ -46070,8 +45966,7 @@
         },
         "assets/resources/native/7a/7a8661ed-27e4-47c7-a80c-956dad9d17b1.bin": {
             "size": 905,
-            "md5": "ef48b1ea097f1fc2d6cebe80b695dea5",
-            "downloadState": 2
+            "md5": "ef48b1ea097f1fc2d6cebe80b695dea5"
         },
         "assets/resources/native/7a/7aac8de9-6c9d-451f-ae4c-c8edb11553fd.bin": {
             "size": 314,
@@ -46147,8 +46042,7 @@
         },
         "assets/resources/native/7d/7d2f0c73-21a8-46b9-a7df-bc0b322157c1.bin": {
             "size": 5220,
-            "md5": "ebc6c004fe40dd1b4611773094a8ee7a",
-            "downloadState": 2
+            "md5": "ebc6c004fe40dd1b4611773094a8ee7a"
         },
         "assets/resources/native/7d/7d653c94-28db-4b73-aa4c-a5a99b2dd0dc.png": {
             "size": 138783,
@@ -46368,8 +46262,7 @@
         },
         "assets/resources/native/84/84491fa3-d442-4321-9ffe-ac820e5c1955.bin": {
             "size": 396,
-            "md5": "935ad534e358d200b30d9c6759095c38",
-            "downloadState": 2
+            "md5": "935ad534e358d200b30d9c6759095c38"
         },
         "assets/resources/native/84/84569957-c38f-42fe-9b35-00aeb65c3e24.png": {
             "size": 490901,
@@ -46588,8 +46481,8 @@
             "md5": "23adb822ec23b8880a7d9d92930a9e57"
         },
         "assets/resources/native/89/89ccdb96-53be-43d2-9583-20cc084fdb1e.bin": {
-            "size": 71854,
-            "md5": "f7ae08ca8f71b92fe17c9deec9f5e854",
+            "size": 71850,
+            "md5": "ff75c76110d39eda8b345d3114578873",
             "downloadState": 2
         },
         "assets/resources/native/8a/8a2ba27d-b5d7-4c2c-be3e-6da302112f01.png": {
@@ -46638,8 +46531,7 @@
         },
         "assets/resources/native/8b/8b383d41-3267-43c7-80d6-fa6b7b1d5aaf.bin": {
             "size": 14283,
-            "md5": "8eacfd762a8976b51acfa8b7b9284956",
-            "downloadState": 2
+            "md5": "8eacfd762a8976b51acfa8b7b9284956"
         },
         "assets/resources/native/8b/8b3dc2a9-080a-4a77-b913-7bb7363ca849.png": {
             "size": 262832,
@@ -46719,8 +46611,7 @@
         },
         "assets/resources/native/8c/8cde0dbe-9c8b-4a3a-80d4-3cb485d6a8e5.bin": {
             "size": 359,
-            "md5": "a1ea8e59e1b59ccbb92e881c22f2e53e",
-            "downloadState": 2
+            "md5": "a1ea8e59e1b59ccbb92e881c22f2e53e"
         },
         "assets/resources/native/8d/8d521b06-eb65-4894-9fce-3e3e048ba161.bin": {
             "size": 1362,
@@ -46736,8 +46627,7 @@
         },
         "assets/resources/native/8d/8db9e306-d8d1-4225-b61a-5298d00c9b29.bin": {
             "size": 8139,
-            "md5": "5923cc86d8bb1e40f0d9abeed8be3545",
-            "downloadState": 2
+            "md5": "5923cc86d8bb1e40f0d9abeed8be3545"
         },
         "assets/resources/native/8d/8dbd83d9-0307-43f1-9458-2ca4455c2d0d.bin": {
             "size": 91,
@@ -46820,8 +46710,8 @@
             "md5": "f07da5d0e4a1bc2a0835b61cef5a4f29"
         },
         "assets/resources/native/90/9093e8dd-e474-4928-ac62-f65d087cd9a4.bin": {
-            "size": 71854,
-            "md5": "f7ae08ca8f71b92fe17c9deec9f5e854",
+            "size": 71850,
+            "md5": "ff75c76110d39eda8b345d3114578873",
             "downloadState": 2
         },
         "assets/resources/native/90/909a7f4a-6ee0-46b9-8074-63dae94bc9c6.png": {
@@ -46922,8 +46812,7 @@
         },
         "assets/resources/native/93/9348d422-4721-41eb-a311-eabbbced2329.bin": {
             "size": 905,
-            "md5": "ef48b1ea097f1fc2d6cebe80b695dea5",
-            "downloadState": 2
+            "md5": "ef48b1ea097f1fc2d6cebe80b695dea5"
         },
         "assets/resources/native/93/93680193-bb42-442f-87ed-d33b8c36f6e3.jpg": {
             "size": 4974,
@@ -46947,8 +46836,7 @@
         },
         "assets/resources/native/93/93d8cf52-e867-411f-8233-bf52936e2775.bin": {
             "size": 1150,
-            "md5": "632ede038cacdc3be3ba46e7552cdce1",
-            "downloadState": 2
+            "md5": "632ede038cacdc3be3ba46e7552cdce1"
         },
         "assets/resources/native/93/93f6e382-5719-46c5-bb24-1aee74e504d2.png": {
             "size": 1276,
@@ -46976,8 +46864,7 @@
         },
         "assets/resources/native/94/947dbef3-adee-41e0-ab32-dc4bc53cca1c.bin": {
             "size": 745,
-            "md5": "2edccee6914388911ce03f8aee8b023a",
-            "downloadState": 2
+            "md5": "2edccee6914388911ce03f8aee8b023a"
         },
         "assets/resources/native/94/9480b2cc-23f7-4dda-a8da-021611f846b0.png": {
             "size": 2812,
@@ -47057,7 +46944,7 @@
         },
         "assets/resources/native/96/9669ae64-4c03-4e9c-8ba3-110a2ac16668.bin": {
             "size": 5719,
-            "md5": "97dc077352093083cdaa1f3ec4a3cb47",
+            "md5": "5e556a79b600e5c4937b9dc709677f8c",
             "downloadState": 2
         },
         "assets/resources/native/96/968adafd-b8c3-42ad-bb20-700b98d81b72.bin": {
@@ -47094,8 +46981,7 @@
         },
         "assets/resources/native/97/97f5fe48-2290-4f7d-bafa-4c50c90d70ea.bin": {
             "size": 547,
-            "md5": "17384f24c20902ef4227a55d0302ced1",
-            "downloadState": 2
+            "md5": "17384f24c20902ef4227a55d0302ced1"
         },
         "assets/resources/native/97/97f6b344-e84a-4c0a-948a-88543368fc30.png": {
             "size": 87931,
@@ -47131,8 +47017,7 @@
         },
         "assets/resources/native/99/995af0bc-da42-40bb-9b66-12a9231f4440.bin": {
             "size": 424,
-            "md5": "57674af8777c8746afe7a39ff678510e",
-            "downloadState": 2
+            "md5": "57674af8777c8746afe7a39ff678510e"
         },
         "assets/resources/native/99/995de580-dd5d-441d-86f4-d65cc389dd1e.png": {
             "size": 175,
@@ -47228,8 +47113,7 @@
         },
         "assets/resources/native/9c/9c050113-31ad-4c5b-95e9-9b0b0b7f5b89.bin": {
             "size": 1402,
-            "md5": "f41b1379522eef807b5231afff8587cb",
-            "downloadState": 2
+            "md5": "f41b1379522eef807b5231afff8587cb"
         },
         "assets/resources/native/9c/9c19730e-6ab2-4dd1-a2f9-6ab2b6dbed0e.png": {
             "size": 10144,
@@ -47505,8 +47389,7 @@
         },
         "assets/resources/native/a2/a2da3573-d106-478d-8fcf-d393f79ed7ce.bin": {
             "size": 17700,
-            "md5": "a6a46e590bdf312d43f4f995e7862a18",
-            "downloadState": 2
+            "md5": "a6a46e590bdf312d43f4f995e7862a18"
         },
         "assets/resources/native/a2/a2ee7a4f-5a19-4248-a200-3075e05a20a5.png": {
             "size": 28820,
@@ -47585,8 +47468,9 @@
             "md5": "69f722b1c6a740cfcf5f6be036308dc4"
         },
         "assets/resources/native/a4/a4745781-389e-4dc4-b9d5-597fe72f2150.bin": {
-            "size": 11444,
-            "md5": "7c3c8aa32a620235e8a9febd097bc5c8"
+            "size": 11437,
+            "md5": "059b4172ca2acef1736e4c14277e2d3d",
+            "downloadState": 2
         },
         "assets/resources/native/a4/a4a01557-f91b-45e9-8759-b1d2a53c5809.bin": {
             "size": 179,
@@ -47681,8 +47565,9 @@
             "md5": "2f328de40c139f7211b5d5a91af39065"
         },
         "assets/resources/native/a7/a7ea3599-6d88-4583-924f-94dc837cd63d.bin": {
-            "size": 3958,
-            "md5": "6f272b70f36622d0a0a10667fa71b53b"
+            "size": 4117,
+            "md5": "2330e4175ad77a5072eb54092fc8b9bf",
+            "downloadState": 2
         },
         "assets/resources/native/a8/a812b90c-6bdf-486e-b8d5-3a89c74be14a.png": {
             "size": 4365,
@@ -47701,8 +47586,8 @@
             "md5": "735714668f2f9542532a70a89c055ccf"
         },
         "assets/resources/native/a9/a914e5a3-004e-4741-90fa-56b2b0bc0fd9.bin": {
-            "size": 64210,
-            "md5": "df9513d9e4ad50c8f4288c993bc92ec6",
+            "size": 85610,
+            "md5": "e87f2d5275330e7b9d0f7b84c9359004",
             "downloadState": 2
         },
         "assets/resources/native/a9/a933da86-092c-4f20-bcfe-d31054a323ab.png": {
@@ -47711,8 +47596,7 @@
         },
         "assets/resources/native/a9/a98b4dfa-a039-4845-8555-ddc42e147ea4.bin": {
             "size": 3665,
-            "md5": "60b3c199cc4d348f07518bd94a03b203",
-            "downloadState": 2
+            "md5": "60b3c199cc4d348f07518bd94a03b203"
         },
         "assets/resources/native/a9/a9b14a85-ab55-4d75-a479-223266c23339.bin": {
             "size": 327,
@@ -48124,7 +48008,7 @@
         },
         "assets/resources/native/b8/b83bedbd-659f-4739-8897-01105e1870ad.bin": {
             "size": 6238,
-            "md5": "a798e30bc3229737041a21dcfa5d8e8e",
+            "md5": "05aa119c181f613ea83ee29f6b66e048",
             "downloadState": 2
         },
         "assets/resources/native/b8/b878941b-12aa-4302-9d1f-bbb632229f1e.jpg": {
@@ -48268,8 +48152,8 @@
             "md5": "30d798fb207d8eb714a039e01da8748e"
         },
         "assets/resources/native/bd/bde2d840-5ecb-4faa-ba81-8b2c591e9e15.bin": {
-            "size": 122483,
-            "md5": "6a3a68c16cc64bd8b3955481a40c2d71",
+            "size": 122596,
+            "md5": "cf87da9c69dd38376ba6f95328adccba",
             "downloadState": 2
         },
         "assets/resources/native/be/be07ecef-8664-43db-9219-174c85479686.png": {
@@ -48362,13 +48246,11 @@
         },
         "assets/resources/native/c0/c0a4031e-7213-4357-80e7-3ac473a50ebf.bin": {
             "size": 6897,
-            "md5": "e04b9a0de3a081b6fcb47b538577ec95",
-            "downloadState": 2
+            "md5": "e04b9a0de3a081b6fcb47b538577ec95"
         },
         "assets/resources/native/c0/c0a409b3-0a0e-4c34-b6f1-aea6720f9eff.bin": {
             "size": 396,
-            "md5": "935ad534e358d200b30d9c6759095c38",
-            "downloadState": 2
+            "md5": "935ad534e358d200b30d9c6759095c38"
         },
         "assets/resources/native/c0/c0b8278f-92f2-4ffa-8961-e5c47fab0166.bin": {
             "size": 170,
@@ -48575,8 +48457,8 @@
             "md5": "02c9fcc50826d1625de6b8d7b0e4ace0"
         },
         "assets/resources/native/c7/c71544d0-2391-4697-8e4f-91f04e8c7c17.bin": {
-            "size": 93638,
-            "md5": "c864a74b253db583836718d2689c7792",
+            "size": 93744,
+            "md5": "a7331ed27143eebdc1d6269ee7692778",
             "downloadState": 2
         },
         "assets/resources/native/c7/c7301929-1f7a-424e-9d0a-db11f943deac.png": {
@@ -48589,8 +48471,7 @@
         },
         "assets/resources/native/c7/c781aaf3-443b-4dd4-bf44-4d65991775a6.bin": {
             "size": 783,
-            "md5": "38fc7464e8857ce8998f65c0bc9a0205",
-            "downloadState": 2
+            "md5": "38fc7464e8857ce8998f65c0bc9a0205"
         },
         "assets/resources/native/c7/c7842e01-bdc0-45d4-9804-1f680bb18d59.png": {
             "size": 5510,
@@ -48614,8 +48495,7 @@
         },
         "assets/resources/native/c8/c825637f-e040-4996-a2e7-17003674e595.bin": {
             "size": 74,
-            "md5": "329fc1179a560dc783598fe0d057e464",
-            "downloadState": 2
+            "md5": "329fc1179a560dc783598fe0d057e464"
         },
         "assets/resources/native/c8/c89e98ad-62e6-4880-a73e-9f4b732c25eb.png": {
             "size": 11201,
@@ -48987,8 +48867,7 @@
         },
         "assets/resources/native/d6/d69e0e92-f00f-416f-bdad-b3bc5958e0d2.bin": {
             "size": 32414,
-            "md5": "3f5d746b141061380645b2b6f12f7af3",
-            "downloadState": 2
+            "md5": "3f5d746b141061380645b2b6f12f7af3"
         },
         "assets/resources/native/d6/d6a5dd19-0fc6-478e-bf43-9f9107b49248.png": {
             "size": 4509,
@@ -49256,18 +49135,15 @@
         },
         "assets/resources/native/df/df70f2db-4922-4497-91e9-6d0118b6f9e0.bin": {
             "size": 621,
-            "md5": "0da2147e70c0f5498b24110868fad260",
-            "downloadState": 2
+            "md5": "0da2147e70c0f5498b24110868fad260"
         },
         "assets/resources/native/df/df8c217b-e9d1-4619-a0e0-640dc08c16f9.png": {
             "size": 2023,
-            "md5": "12841de9fee711108bc4e14d4ccbe7da",
-            "downloadState": 2
+            "md5": "12841de9fee711108bc4e14d4ccbe7da"
         },
         "assets/resources/native/df/df8ed2d9-82b9-4779-8ffc-922e11d52765.bin": {
             "size": 137628,
-            "md5": "c877377cede1c8b529789615d6385cc2",
-            "downloadState": 2
+            "md5": "c877377cede1c8b529789615d6385cc2"
         },
         "assets/resources/native/df/dfa68319-5e3a-4c5c-b98a-fab3904d7be9.png": {
             "size": 1103,
@@ -49275,8 +49151,7 @@
         },
         "assets/resources/native/df/dfc79b21-ce9e-42ea-9b9a-02081a49fd64.bin": {
             "size": 3665,
-            "md5": "60b3c199cc4d348f07518bd94a03b203",
-            "downloadState": 2
+            "md5": "60b3c199cc4d348f07518bd94a03b203"
         },
         "assets/resources/native/df/dfea08bc-af55-4f1e-9c24-427204fb9ec5.png": {
             "size": 56148,
@@ -49408,8 +49283,7 @@
         },
         "assets/resources/native/e5/e5037f56-1cf4-4436-ad35-3ae46ff30d87.bin": {
             "size": 424,
-            "md5": "57674af8777c8746afe7a39ff678510e",
-            "downloadState": 2
+            "md5": "57674af8777c8746afe7a39ff678510e"
         },
         "assets/resources/native/e5/e50f652d-1d12-4405-938e-cd4e7210f7f1.png": {
             "size": 842,
@@ -49645,8 +49519,7 @@
         },
         "assets/resources/native/ed/ed3d2e22-3fc8-4dc5-bfdf-87fb5545d09e.bin": {
             "size": 351,
-            "md5": "2b309c4d1b2b5ec2dc5aecaae9aa38f9",
-            "downloadState": 2
+            "md5": "2b309c4d1b2b5ec2dc5aecaae9aa38f9"
         },
         "assets/resources/native/ed/ed938533-1fb6-448e-bdd2-69472775b082.png": {
             "size": 408,
@@ -49878,8 +49751,7 @@
         },
         "assets/resources/native/f3/f3fb5aa1-56db-4311-8cc6-60d6b3659dcf.bin": {
             "size": 74,
-            "md5": "329fc1179a560dc783598fe0d057e464",
-            "downloadState": 2
+            "md5": "329fc1179a560dc783598fe0d057e464"
         },
         "assets/resources/native/f4/f401e4b0-ae9f-488d-a781-a6c117f6b702.png": {
             "size": 39741,
@@ -49903,13 +49775,11 @@
         },
         "assets/resources/native/f4/f4a4ac90-7113-4758-b52e-682a92a7bab6.bin": {
             "size": 273,
-            "md5": "a654f97dd12c16d489135283d11f8f17",
-            "downloadState": 2
+            "md5": "a654f97dd12c16d489135283d11f8f17"
         },
         "assets/resources/native/f4/f4a79edb-05db-4269-9b8d-78941c6d1344.png": {
             "size": 2016,
-            "md5": "26335d5848f61dfd537aa70e2ca3e2dd",
-            "downloadState": 2
+            "md5": "26335d5848f61dfd537aa70e2ca3e2dd"
         },
         "assets/resources/native/f4/f4d2ce7f-5f1a-45a3-bf4f-d97e8094ac33.png": {
             "size": 1380,
@@ -49929,8 +49799,7 @@
         },
         "assets/resources/native/f5/f50cda02-99f6-417f-8963-56cd369e1758.bin": {
             "size": 32414,
-            "md5": "3f5d746b141061380645b2b6f12f7af3",
-            "downloadState": 2
+            "md5": "3f5d746b141061380645b2b6f12f7af3"
         },
         "assets/resources/native/f5/f52e1a9e-c0e9-4c12-a132-5e6083cbe934.png": {
             "size": 892,
@@ -49981,8 +49850,8 @@
             "md5": "8d4894e103bdf36c635174712bb1d096"
         },
         "assets/resources/native/f5/f5e04eb8-786e-4c76-a912-dd484c8a96e4.bin": {
-            "size": 1938,
-            "md5": "b6dab3c59fb4c7dd94295c6183781501",
+            "size": 3070,
+            "md5": "80ba131241360cd2c8f9667128d80310",
             "downloadState": 2
         },
         "assets/resources/native/f6/f6065eeb-ecbc-4580-877b-4f35882ba338.png": {
@@ -49999,8 +49868,7 @@
         },
         "assets/resources/native/f6/f6196213-cbd8-453f-a9fa-b61a9a3015ce.bin": {
             "size": 25988,
-            "md5": "6a8f462b4ea27f5c00f1b8cd6936d036",
-            "downloadState": 2
+            "md5": "6a8f462b4ea27f5c00f1b8cd6936d036"
         },
         "assets/resources/native/f6/f64055c6-1989-4859-9438-cf4cb92956a9.png": {
             "size": 266720,
@@ -50116,8 +49984,7 @@
         },
         "assets/resources/native/f9/f9730679-d4b9-4ae9-8865-ce9b375d5b88.bin": {
             "size": 1961,
-            "md5": "3b863f89c29ac8208d486fbde97e0b34",
-            "downloadState": 2
+            "md5": "3b863f89c29ac8208d486fbde97e0b34"
         },
         "assets/resources/native/f9/f97a8e36-d65c-476b-8294-f1e56fcecb86.png": {
             "size": 2594,
@@ -50285,8 +50152,7 @@
         },
         "assets/resources/native/fe/fe9ba035-4d40-45a8-9a63-3a3b95b96a12.bin": {
             "size": 547,
-            "md5": "17384f24c20902ef4227a55d0302ced1",
-            "downloadState": 2
+            "md5": "17384f24c20902ef4227a55d0302ced1"
         },
         "assets/resources/native/fe/fea07680-f0fb-4f6d-847b-cd14acec67d4.bin": {
             "size": 17,
@@ -50313,8 +50179,9 @@
             "md5": "551bf796ceade80f0af868fec714dd48"
         },
         "assets/resources/native/ff/ffe48887-706b-4c3f-a6b7-8995cb91fed5.bin": {
-            "size": 3958,
-            "md5": "6f272b70f36622d0a0a10667fa71b53b"
+            "size": 4117,
+            "md5": "2330e4175ad77a5072eb54092fc8b9bf",
+            "downloadState": 2
         },
         "assets/skills/config.json": {
             "size": 17113,
