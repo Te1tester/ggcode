@@ -2,7 +2,7 @@
     "packageUrl": "https://xpprodres.vtcgame.vn/XP/vn_release_android/HotUpdate/",
     "remoteManifestUrl": "https://xpprodres.vtcgame.vn/XP/vn_release_android/HotUpdate/project.manifest",
     "remoteVersionUrl": "https://xpprodres.vtcgame.vn/XP/vn_release_android/HotUpdate/version.manifest",
-    "version": "1.0.79",
+    "version": "1.0.80",
     "assets": {
         "src/cocos2d-jsb.jsc": {
             "size": 362220,
@@ -1842,8 +1842,7 @@
         },
         "assets/ab_ui_icon/config.json": {
             "size": 69003,
-            "md5": "3dc7052a3490c28627e257af2255f2a6",
-            "downloadState": 2
+            "md5": "3dc7052a3490c28627e257af2255f2a6"
         },
         "assets/ab_ui_icon/import/00/0053eacd-6383-42d3-b0ae-fd4fd5a04a8f.json": {
             "size": 203,
@@ -1855,8 +1854,7 @@
         },
         "assets/ab_ui_icon/import/00/0099ca99-010d-4b46-884c-88caa8c947ca.json": {
             "size": 199,
-            "md5": "c22dc86e5929959a465e6f6cb0655ad1",
-            "downloadState": 2
+            "md5": "c22dc86e5929959a465e6f6cb0655ad1"
         },
         "assets/ab_ui_icon/import/00/00b58e75-477f-4d89-b416-34d9b37d84bf.json": {
             "size": 86,
@@ -3632,8 +3630,7 @@
         },
         "assets/ab_ui_icon/import/59/59e9aa5f-e9db-476e-9793-96cea2be3492.json": {
             "size": 204,
-            "md5": "4f84a22838e23259ab53d09b25a409fc",
-            "downloadState": 2
+            "md5": "4f84a22838e23259ab53d09b25a409fc"
         },
         "assets/ab_ui_icon/import/59/59f6a2e8-274a-4e1d-b9d5-1f649dafdfc0.json": {
             "size": 191,
@@ -4481,8 +4478,7 @@
         },
         "assets/ab_ui_icon/import/83/8321ce56-0a01-4960-8836-ce7f4dfbb7a1.json": {
             "size": 199,
-            "md5": "eb9dfc18c17cf4557b58da07a687c32a",
-            "downloadState": 2
+            "md5": "eb9dfc18c17cf4557b58da07a687c32a"
         },
         "assets/ab_ui_icon/import/83/832f15bf-2d6c-40ff-a281-74bf5665936e.json": {
             "size": 86,
@@ -5178,13 +5174,11 @@
         },
         "assets/ab_ui_icon/import/a7/a7c45cb1-1929-4664-89aa-739f52f93c92.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_icon/import/a7/a7cda89e-7eb6-4915-a063-3c3a526ab545.json": {
             "size": 199,
-            "md5": "f6bbf47b8b4dce2d1e5e55c7dde0d77c",
-            "downloadState": 2
+            "md5": "f6bbf47b8b4dce2d1e5e55c7dde0d77c"
         },
         "assets/ab_ui_icon/import/a8/a83f805b-8487-4836-8d69-2b3791434bf4.json": {
             "size": 200,
@@ -5908,8 +5902,7 @@
         },
         "assets/ab_ui_icon/import/ca/ca0722bf-a752-430f-b342-d7d9dea58f3e.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_icon/import/ca/ca6d0542-b79d-4634-9463-2d9265fa9b3e.json": {
             "size": 202,
@@ -6137,8 +6130,7 @@
         },
         "assets/ab_ui_icon/import/d4/d40889a3-e8df-4d94-935a-cc2602551bf9.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_icon/import/d4/d454a530-7382-466b-9496-3103c3bd7454.json": {
             "size": 196,
@@ -6434,8 +6426,7 @@
         },
         "assets/ab_ui_icon/import/e0/e0b193f5-c3e3-42d9-9797-1d730af2d162.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_icon/import/e0/e0daf57f-7f0f-42ea-a1f9-fbaf16bf0c2d.json": {
             "size": 202,
@@ -8775,8 +8766,7 @@
         },
         "assets/ab_ui_icon/native/a7/a7c45cb1-1929-4664-89aa-739f52f93c92.png": {
             "size": 15948,
-            "md5": "ca10dae0b2c7dd0fa09fb192b94918dc",
-            "downloadState": 2
+            "md5": "ca10dae0b2c7dd0fa09fb192b94918dc"
         },
         "assets/ab_ui_icon/native/a8/a84ffd02-9227-49b5-88d0-7830c98dfb01.png": {
             "size": 31196,
@@ -9116,8 +9106,7 @@
         },
         "assets/ab_ui_icon/native/ca/ca0722bf-a752-430f-b342-d7d9dea58f3e.png": {
             "size": 25144,
-            "md5": "9bc4eef32d4f2020fa951726d4f6bbe0",
-            "downloadState": 2
+            "md5": "9bc4eef32d4f2020fa951726d4f6bbe0"
         },
         "assets/ab_ui_icon/native/ca/cabd1fe5-52da-4ecc-899a-d0f3c70188b6.png": {
             "size": 15690,
@@ -9241,8 +9230,7 @@
         },
         "assets/ab_ui_icon/native/d4/d40889a3-e8df-4d94-935a-cc2602551bf9.png": {
             "size": 10516,
-            "md5": "8a5588c50bf822fa1f86b673fcf0c5d1",
-            "downloadState": 2
+            "md5": "8a5588c50bf822fa1f86b673fcf0c5d1"
         },
         "assets/ab_ui_icon/native/d4/d45f6127-4ac5-496b-af1a-be8a28163410.png": {
             "size": 7682,
@@ -9390,8 +9378,7 @@
         },
         "assets/ab_ui_icon/native/e0/e0b193f5-c3e3-42d9-9797-1d730af2d162.png": {
             "size": 9042,
-            "md5": "7395d58f2e931bbdfc35dc301f877fb1",
-            "downloadState": 2
+            "md5": "7395d58f2e931bbdfc35dc301f877fb1"
         },
         "assets/ab_ui_icon/native/e1/e1901bb9-e9fa-48e1-9319-603d72529502.png": {
             "size": 32183,
@@ -12127,8 +12114,7 @@
         },
         "assets/ab_ui_miniGame/config.json": {
             "size": 41076,
-            "md5": "442564a7a7d28728b0f74d9dd9bbe9af",
-            "downloadState": 2
+            "md5": "442564a7a7d28728b0f74d9dd9bbe9af"
         },
         "assets/ab_ui_miniGame/import/00/00985747-13d2-42c4-a1f6-26a40ddaf17a.json": {
             "size": 200,
@@ -12140,8 +12126,7 @@
         },
         "assets/ab_ui_miniGame/import/01/01b98aa4-8fed-4708-8fc7-9d21c53932ed.json": {
             "size": 202,
-            "md5": "a2951afdb49dd316f35ff32728074f5a",
-            "downloadState": 2
+            "md5": "a2951afdb49dd316f35ff32728074f5a"
         },
         "assets/ab_ui_miniGame/import/01/01c1c87c-db4d-44a9-a10f-3a763df96966.json": {
             "size": 194,
@@ -12149,8 +12134,7 @@
         },
         "assets/ab_ui_miniGame/import/02/025e9ed6-e019-4153-9a5b-ce8dddb73bb0.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/02/028f2d6f-a2c9-42e3-8290-d00bcc200730.json": {
             "size": 201,
@@ -12170,8 +12154,7 @@
         },
         "assets/ab_ui_miniGame/import/05/05464014-7aa3-43f9-97b0-012c27ca18eb.json": {
             "size": 200,
-            "md5": "0cd563d4ee6060d10813f97a7185e6c3",
-            "downloadState": 2
+            "md5": "0cd563d4ee6060d10813f97a7185e6c3"
         },
         "assets/ab_ui_miniGame/import/06/065600e8-a0be-4838-b59c-de26732ffd82.json": {
             "size": 86,
@@ -12183,13 +12166,11 @@
         },
         "assets/ab_ui_miniGame/import/07/07ecb3bf-01db-4fd0-afca-12059528f66f.json": {
             "size": 201,
-            "md5": "e58803ba30d9e4d29c0f7d1bb601ab9c",
-            "downloadState": 2
+            "md5": "e58803ba30d9e4d29c0f7d1bb601ab9c"
         },
         "assets/ab_ui_miniGame/import/08/08073c38-3384-4651-8c66-cd669c4b00ab.json": {
             "size": 200,
-            "md5": "bd1aa3060c81267507fa99ef8e3e6b87",
-            "downloadState": 2
+            "md5": "bd1aa3060c81267507fa99ef8e3e6b87"
         },
         "assets/ab_ui_miniGame/import/09/0964d4a1-658b-49e8-8237-01984d1b69a7.json": {
             "size": 199,
@@ -12229,8 +12210,7 @@
         },
         "assets/ab_ui_miniGame/import/0c/0ce84cf1-aa3c-48bb-976d-cd44c6f544a0.json": {
             "size": 199,
-            "md5": "443b865e90d48ad91511c5368576aeae",
-            "downloadState": 2
+            "md5": "443b865e90d48ad91511c5368576aeae"
         },
         "assets/ab_ui_miniGame/import/0d/0d22e933-8921-4e3e-9d7d-d0fe34b30aa7.json": {
             "size": 200,
@@ -12270,8 +12250,7 @@
         },
         "assets/ab_ui_miniGame/import/0f/0f5b3a54-9001-471b-b6dc-b0ebed81a6d5.json": {
             "size": 204,
-            "md5": "42f0585c158be651eca1f8d434a3fd77",
-            "downloadState": 2
+            "md5": "42f0585c158be651eca1f8d434a3fd77"
         },
         "assets/ab_ui_miniGame/import/0f/0fdb6465-1d8c-4dca-a819-0ed537607a0f.json": {
             "size": 86,
@@ -12299,8 +12278,7 @@
         },
         "assets/ab_ui_miniGame/import/11/11f58361-a997-4d15-86ec-b40db01db3a2.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/13/1363a5c9-6f5e-478d-9c15-03fe8ba468ea.json": {
             "size": 203,
@@ -12328,8 +12306,7 @@
         },
         "assets/ab_ui_miniGame/import/17/1709ef1d-da86-43b4-8bf5-24d30469e6c5.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/17/1729160b-9499-4837-bbb1-27b7a84ac578.json": {
             "size": 86,
@@ -12345,8 +12322,7 @@
         },
         "assets/ab_ui_miniGame/import/18/1841c895-a527-43c3-b83f-b3b403ab4e8e.json": {
             "size": 200,
-            "md5": "c7adc2c1a3295028fff467b254c0e2c6",
-            "downloadState": 2
+            "md5": "c7adc2c1a3295028fff467b254c0e2c6"
         },
         "assets/ab_ui_miniGame/import/18/1894cb60-a65c-4ebc-a9fc-c957400a70f9.json": {
             "size": 194,
@@ -12386,8 +12362,7 @@
         },
         "assets/ab_ui_miniGame/import/1b/1beefdc5-6d30-4889-ba88-87edfc900e19.json": {
             "size": 200,
-            "md5": "e858d6752cb04b61b1185123b950edb6",
-            "downloadState": 2
+            "md5": "e858d6752cb04b61b1185123b950edb6"
         },
         "assets/ab_ui_miniGame/import/1b/1bf01d75-f0cb-411c-9e9d-e7b3f1fb0251.json": {
             "size": 199,
@@ -12463,23 +12438,19 @@
         },
         "assets/ab_ui_miniGame/import/22/2200c812-92bc-4bd0-b96c-cc81a11f054b.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/22/2224b166-f6f9-4722-9274-3d7ec3dde8f7.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/22/2298cca5-ed39-4f43-9d25-fdd5e075672f.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/23/23bca002-9bc7-4461-9305-8901368bd241.json": {
             "size": 201,
-            "md5": "d4d4d48b2e5c85900750111f27dd8652",
-            "downloadState": 2
+            "md5": "d4d4d48b2e5c85900750111f27dd8652"
         },
         "assets/ab_ui_miniGame/import/25/25b92e7f-af9d-48d4-a055-c1adef64f999.json": {
             "size": 86,
@@ -12507,8 +12478,7 @@
         },
         "assets/ab_ui_miniGame/import/26/2662dadc-a306-4af3-af2d-71d37fdd0732.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/26/266d23cd-f243-412d-b5eb-2106a22a6606.json": {
             "size": 203,
@@ -12524,13 +12494,11 @@
         },
         "assets/ab_ui_miniGame/import/27/27568cde-af5e-4ce6-8a36-2a25336efb25.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/28/28c16ca7-7639-471d-b049-86721bf2de02.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/29/29555afd-fc6c-4013-9cab-ee8135570ea2.json": {
             "size": 86,
@@ -12546,8 +12514,7 @@
         },
         "assets/ab_ui_miniGame/import/2a/2a85e400-a12e-439c-877e-3c1cfab620a5.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/2b/2b02b945-ed2e-4f78-8884-d0c5bd690c9e.json": {
             "size": 86,
@@ -12607,8 +12574,7 @@
         },
         "assets/ab_ui_miniGame/import/2f/2ff96142-3439-45eb-b382-7399052e2c1b.json": {
             "size": 199,
-            "md5": "3b63050eb93a5589c5a2a2d7ceb979d8",
-            "downloadState": 2
+            "md5": "3b63050eb93a5589c5a2a2d7ceb979d8"
         },
         "assets/ab_ui_miniGame/import/30/30d3c236-2ca3-4a70-b4ef-885f935b0709.json": {
             "size": 86,
@@ -12636,8 +12602,7 @@
         },
         "assets/ab_ui_miniGame/import/33/334ffc98-0f84-4c58-b716-31f0de9f2677.json": {
             "size": 200,
-            "md5": "d3d1a117191bca1e6ee7c029f916fead",
-            "downloadState": 2
+            "md5": "d3d1a117191bca1e6ee7c029f916fead"
         },
         "assets/ab_ui_miniGame/import/33/3375d367-73fc-4964-993f-34ccc4b36e26.json": {
             "size": 200,
@@ -12649,8 +12614,7 @@
         },
         "assets/ab_ui_miniGame/import/33/33b2cb10-8fcf-46c8-9f89-5ddd7361067d.json": {
             "size": 203,
-            "md5": "a408fcd9b088dfd77c4e5a35895fe7e4",
-            "downloadState": 2
+            "md5": "a408fcd9b088dfd77c4e5a35895fe7e4"
         },
         "assets/ab_ui_miniGame/import/33/33e1c9ab-8616-48a6-9bd0-6e52010367bc.json": {
             "size": 201,
@@ -12674,8 +12638,7 @@
         },
         "assets/ab_ui_miniGame/import/36/3665b838-04ca-4566-a614-12c681eb2788.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/37/3706b025-e8cc-4bd5-802c-172f6849e7d8.json": {
             "size": 201,
@@ -12691,13 +12654,11 @@
         },
         "assets/ab_ui_miniGame/import/38/389bccbe-d918-4947-bd19-1bc38a801297.json": {
             "size": 200,
-            "md5": "7dcce6d642723cc0d378d3747edae620",
-            "downloadState": 2
+            "md5": "7dcce6d642723cc0d378d3747edae620"
         },
         "assets/ab_ui_miniGame/import/38/38c5817d-8dd2-470f-9a05-4a79c4f43169.json": {
             "size": 208,
-            "md5": "a57f6665def6475ac44b3e31f2b36d5a",
-            "downloadState": 2
+            "md5": "a57f6665def6475ac44b3e31f2b36d5a"
         },
         "assets/ab_ui_miniGame/import/39/3975ab44-558e-44b1-81bc-25bd6d55394a.json": {
             "size": 200,
@@ -12705,8 +12666,7 @@
         },
         "assets/ab_ui_miniGame/import/39/39d5caaa-5740-4c04-800f-5cf5ab3eda97.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/3a/3a0b30b8-9939-4c59-8e75-064edc52c125.json": {
             "size": 194,
@@ -12758,8 +12718,7 @@
         },
         "assets/ab_ui_miniGame/import/3f/3f956d72-a584-4afe-9b3c-c767e610c517.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/3f/3fc65d58-9760-4310-b9e3-b206bd1afec0.json": {
             "size": 86,
@@ -12775,8 +12734,7 @@
         },
         "assets/ab_ui_miniGame/import/41/4127bbea-c29e-4d80-b411-032ab8ff99a7.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/41/4165a32a-6d84-4835-ae42-11decf78473f.json": {
             "size": 86,
@@ -12860,18 +12818,15 @@
         },
         "assets/ab_ui_miniGame/import/47/47e4e1d0-f6bd-4275-a557-0b4a5ab92874.json": {
             "size": 200,
-            "md5": "783b59a71f86159c27fcc400b37cb68b",
-            "downloadState": 2
+            "md5": "783b59a71f86159c27fcc400b37cb68b"
         },
         "assets/ab_ui_miniGame/import/48/488af77e-4920-4398-9fdb-1d9b24e3a237.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/49/4909c7da-0103-4c57-9b8a-f784c8ff31a6.json": {
             "size": 201,
-            "md5": "4b87848794729923dfaef8c9f2669fb1",
-            "downloadState": 2
+            "md5": "4b87848794729923dfaef8c9f2669fb1"
         },
         "assets/ab_ui_miniGame/import/49/4994bac1-fac4-4cff-ae4c-62b30cef22ba.json": {
             "size": 86,
@@ -12883,8 +12838,7 @@
         },
         "assets/ab_ui_miniGame/import/4a/4ad50e27-80e6-469a-9091-7850a256b489.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/4b/4bd002ab-489f-4a7a-b06e-9fd74e01a318.json": {
             "size": 203,
@@ -12964,8 +12918,7 @@
         },
         "assets/ab_ui_miniGame/import/54/54bcaa3b-8521-4d25-8fbf-d11109f10917.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/54/54d3938e-08d8-49a1-9397-91d81d868c0f.json": {
             "size": 86,
@@ -12985,8 +12938,7 @@
         },
         "assets/ab_ui_miniGame/import/55/55a3bdca-ec83-45e8-ae38-77384caac401.json": {
             "size": 202,
-            "md5": "04acebe9539764ed1ef5e46935c37bf6",
-            "downloadState": 2
+            "md5": "04acebe9539764ed1ef5e46935c37bf6"
         },
         "assets/ab_ui_miniGame/import/55/55b061a1-a8e5-428e-9eca-603ac4cc7d2b.json": {
             "size": 202,
@@ -13002,8 +12954,7 @@
         },
         "assets/ab_ui_miniGame/import/57/57b4abce-01cc-493c-b4a0-509b1948400c.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/57/57d4d3f4-3e71-4b0d-a2a8-1e7a5dae64a9.json": {
             "size": 199,
@@ -13011,18 +12962,15 @@
         },
         "assets/ab_ui_miniGame/import/58/58678455-89a6-4a5f-a553-b834bcd8a1e3.json": {
             "size": 200,
-            "md5": "648d6ed932e004da570c7423252f89f0",
-            "downloadState": 2
+            "md5": "648d6ed932e004da570c7423252f89f0"
         },
         "assets/ab_ui_miniGame/import/58/58f2b68b-286e-46b9-93ec-2a43d7b4748e.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/59/598982ba-4dd0-4713-acad-96c362316f0c.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/5a/5a2d2292-c3ae-4df8-8e53-219d03874eb3.json": {
             "size": 200,
@@ -13030,8 +12978,7 @@
         },
         "assets/ab_ui_miniGame/import/5a/5a45ee3b-21a1-43e8-a714-bf0d30948c91.json": {
             "size": 201,
-            "md5": "b1ebddf3351bfdd95ae5721f70ffc5da",
-            "downloadState": 2
+            "md5": "b1ebddf3351bfdd95ae5721f70ffc5da"
         },
         "assets/ab_ui_miniGame/import/5c/5cfb0a70-6d4d-476b-8b69-9a80d2feae17.json": {
             "size": 202,
@@ -13075,8 +13022,7 @@
         },
         "assets/ab_ui_miniGame/import/62/6215fc6a-4c82-4507-833a-f1d216c66f76.json": {
             "size": 201,
-            "md5": "cc9504a4f8478fadce21786299bcd8bc",
-            "downloadState": 2
+            "md5": "cc9504a4f8478fadce21786299bcd8bc"
         },
         "assets/ab_ui_miniGame/import/62/623ed862-aedf-4390-a5aa-f8c5ebe6fc5a.json": {
             "size": 86,
@@ -13128,8 +13074,7 @@
         },
         "assets/ab_ui_miniGame/import/66/66fa2357-0638-4c01-8c10-eb754a5f4415.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/67/670ed324-e438-4af1-a745-b47011a8faf5.json": {
             "size": 86,
@@ -13141,8 +13086,7 @@
         },
         "assets/ab_ui_miniGame/import/67/67ec43d7-8052-40d3-8dd1-fcca0aefa8d1.json": {
             "size": 200,
-            "md5": "8d6c0c29769651e856ff44e078cde2bb",
-            "downloadState": 2
+            "md5": "8d6c0c29769651e856ff44e078cde2bb"
         },
         "assets/ab_ui_miniGame/import/68/68443fd8-decd-42f9-a2dc-97e0a237092d.json": {
             "size": 86,
@@ -13158,8 +13102,7 @@
         },
         "assets/ab_ui_miniGame/import/6a/6aabd8c5-6908-4d36-b9a8-7e23c6361d3c.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/6a/6abd3019-95b6-4df3-8d9a-b8571b2d97b5.json": {
             "size": 86,
@@ -13183,8 +13126,7 @@
         },
         "assets/ab_ui_miniGame/import/6e/6e16ce7d-07c8-4253-99d3-3c79e2cd9468.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/6e/6e41d704-1e92-46c2-8b1d-eb828aace99a.json": {
             "size": 86,
@@ -13204,13 +13146,11 @@
         },
         "assets/ab_ui_miniGame/import/73/730ed16b-0eca-42b6-b4a3-da49f26cf8a7.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/73/73556e85-7ebf-48ab-b955-86dba7fa6382.json": {
             "size": 212,
-            "md5": "f86f2ecce46f269279024aec1b9ef17d",
-            "downloadState": 2
+            "md5": "f86f2ecce46f269279024aec1b9ef17d"
         },
         "assets/ab_ui_miniGame/import/73/73b8de2b-4da8-49f7-b2ce-6d400dca6c14.json": {
             "size": 201,
@@ -13218,8 +13158,7 @@
         },
         "assets/ab_ui_miniGame/import/74/742bc766-abe9-46b2-afa2-a00b6c34fa9e.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/74/743d05da-5f03-4c48-8f7a-b0360bf0b94e.json": {
             "size": 201,
@@ -13311,8 +13250,7 @@
         },
         "assets/ab_ui_miniGame/import/80/80b0453f-5078-478a-9b98-f162ae047a0b.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/81/81e7dd70-06ac-4a0c-9f6a-0fecbc6ecf07.json": {
             "size": 86,
@@ -13332,8 +13270,7 @@
         },
         "assets/ab_ui_miniGame/import/83/83ea9c6c-87b1-41d7-841e-e429921f88b9.json": {
             "size": 202,
-            "md5": "a07597fecebcc550d552dd25e5177014",
-            "downloadState": 2
+            "md5": "a07597fecebcc550d552dd25e5177014"
         },
         "assets/ab_ui_miniGame/import/84/8401b30b-29d5-4262-9722-29b8d2b7038a.json": {
             "size": 200,
@@ -13357,8 +13294,7 @@
         },
         "assets/ab_ui_miniGame/import/87/871a5aaf-6125-412d-93c5-33221bc445f3.json": {
             "size": 201,
-            "md5": "8a5146045618a7448dff1644f4d2edc9",
-            "downloadState": 2
+            "md5": "8a5146045618a7448dff1644f4d2edc9"
         },
         "assets/ab_ui_miniGame/import/87/873bc9c6-7f06-4b04-bdd0-7365ebcb37d6.json": {
             "size": 86,
@@ -13366,8 +13302,7 @@
         },
         "assets/ab_ui_miniGame/import/87/877e0193-478d-4834-a968-634990ecd404.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/87/8789ded4-98cd-4b19-a211-f2ce1860e7b2.json": {
             "size": 86,
@@ -13395,8 +13330,7 @@
         },
         "assets/ab_ui_miniGame/import/89/89f7c382-5b20-4859-971d-0ecd24276a5c.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/8a/8a1425dd-bcf6-42d8-848a-3d31f3fe124c.json": {
             "size": 202,
@@ -13404,8 +13338,7 @@
         },
         "assets/ab_ui_miniGame/import/8a/8a668e6e-f5a9-4a64-9c52-b61eee5c925d.json": {
             "size": 203,
-            "md5": "a8e82299fcde5d5a90678081e4c77b27",
-            "downloadState": 2
+            "md5": "a8e82299fcde5d5a90678081e4c77b27"
         },
         "assets/ab_ui_miniGame/import/8a/8a791df0-6d1e-41a5-9eab-d3be338e0b42.json": {
             "size": 86,
@@ -13429,8 +13362,7 @@
         },
         "assets/ab_ui_miniGame/import/8c/8c95a7bc-bc3c-4924-bd4e-b0ab030c992b.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/8d/8d15a0d0-17fc-4148-9369-9846974dbc71.json": {
             "size": 86,
@@ -13442,8 +13374,7 @@
         },
         "assets/ab_ui_miniGame/import/8d/8df321dd-f265-40bb-814d-1696bc2a318a.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/8e/8e26f3bc-de6e-4f3a-90af-6bb2ffca54fd.json": {
             "size": 201,
@@ -13475,8 +13406,7 @@
         },
         "assets/ab_ui_miniGame/import/91/912fe980-75d1-4a6a-9668-bb289acf99bc.json": {
             "size": 201,
-            "md5": "9fadf97cecf535137f4bd8720b01d39a",
-            "downloadState": 2
+            "md5": "9fadf97cecf535137f4bd8720b01d39a"
         },
         "assets/ab_ui_miniGame/import/93/93a9e266-e3bb-4105-be6f-800dfbd29654.json": {
             "size": 200,
@@ -13484,8 +13414,7 @@
         },
         "assets/ab_ui_miniGame/import/94/943b6bfb-0c16-49de-858d-d7180c4feab5.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/95/95cc3faa-587a-4240-9023-7c9a8a34e72f.json": {
             "size": 86,
@@ -13513,8 +13442,7 @@
         },
         "assets/ab_ui_miniGame/import/99/99a37bf4-6df1-460c-8190-0e42c9d5756c.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/9a/9a330233-fbbc-44c8-a456-de49d96bfacd.json": {
             "size": 201,
@@ -13542,8 +13470,7 @@
         },
         "assets/ab_ui_miniGame/import/9c/9c37dc28-1586-4871-bac1-e5f2f8b6fc92.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/9c/9c3fc0a0-6664-4ab4-8fb7-5a98c148ed9b.json": {
             "size": 86,
@@ -13555,18 +13482,15 @@
         },
         "assets/ab_ui_miniGame/import/9d/9d0ac4b3-eb11-4a76-b738-f25a5fbb8a51.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/9e/9e25294e-35bf-4290-ab53-187c6603bad7.json": {
             "size": 212,
-            "md5": "7a32319523051ab1132a1280a79dde18",
-            "downloadState": 2
+            "md5": "7a32319523051ab1132a1280a79dde18"
         },
         "assets/ab_ui_miniGame/import/9e/9e958de0-ab5c-4f87-a4af-6b777edf90a8.json": {
             "size": 201,
-            "md5": "dcbee37cd0dc20858370b36e5af60013",
-            "downloadState": 2
+            "md5": "dcbee37cd0dc20858370b36e5af60013"
         },
         "assets/ab_ui_miniGame/import/9e/9e9adffa-cefd-438a-aa89-35b2612a853b.json": {
             "size": 195,
@@ -13590,8 +13514,7 @@
         },
         "assets/ab_ui_miniGame/import/a1/a1d94363-dae7-4a32-99b3-fa930bdd5de4.json": {
             "size": 203,
-            "md5": "908118e6159a76aaf6b35aed535823e7",
-            "downloadState": 2
+            "md5": "908118e6159a76aaf6b35aed535823e7"
         },
         "assets/ab_ui_miniGame/import/a2/a212bec8-8b34-4273-86cd-4bd93761fd6b.json": {
             "size": 86,
@@ -13599,8 +13522,7 @@
         },
         "assets/ab_ui_miniGame/import/a2/a2189885-f764-4039-8a14-2d7ad8b6cbf6.json": {
             "size": 198,
-            "md5": "1a06e8c05a0a8dc6a890de794db52839",
-            "downloadState": 2
+            "md5": "1a06e8c05a0a8dc6a890de794db52839"
         },
         "assets/ab_ui_miniGame/import/a3/a3f8f24c-e6b3-4405-81bd-5f26bbda8e65.json": {
             "size": 197,
@@ -13612,8 +13534,7 @@
         },
         "assets/ab_ui_miniGame/import/a4/a43568e8-bce3-4457-b6fd-33b9fd856c6d.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/a4/a4edf9d6-a8fc-4d05-9e2d-e60a30d326ed.json": {
             "size": 200,
@@ -13649,8 +13570,7 @@
         },
         "assets/ab_ui_miniGame/import/a6/a68571ce-8556-4848-9148-4d167770238f.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/a7/a7baef75-ee77-4c80-aeec-e78e5541980a.json": {
             "size": 204,
@@ -13658,8 +13578,7 @@
         },
         "assets/ab_ui_miniGame/import/a7/a7ce41f5-2442-4f79-b8f5-887f84fc5f6e.json": {
             "size": 201,
-            "md5": "9be02b09f65f0f1ed6b8cd83d7c80bf4",
-            "downloadState": 2
+            "md5": "9be02b09f65f0f1ed6b8cd83d7c80bf4"
         },
         "assets/ab_ui_miniGame/import/a8/a821641d-3bf3-402f-8b54-e68749d641bb.json": {
             "size": 86,
@@ -13667,8 +13586,7 @@
         },
         "assets/ab_ui_miniGame/import/a8/a8a830b1-22df-4ac4-af05-b39f8b132903.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/a9/a9a39bdd-03f8-47cb-9c15-1110473b3d71.json": {
             "size": 201,
@@ -13692,8 +13610,7 @@
         },
         "assets/ab_ui_miniGame/import/ad/ad093d55-77ec-4801-81a7-4a5c2ac443bd.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/ad/ad3a130e-0afd-431c-be2e-4689e70f54ee.json": {
             "size": 200,
@@ -13709,8 +13626,7 @@
         },
         "assets/ab_ui_miniGame/import/ae/ae8d95d6-3b0f-4faf-8ec7-b4dc63fa17dd.json": {
             "size": 202,
-            "md5": "7e293029f87dda61d3a7297921098e62",
-            "downloadState": 2
+            "md5": "7e293029f87dda61d3a7297921098e62"
         },
         "assets/ab_ui_miniGame/import/ae/aec14360-2b50-435f-b170-bd3a800d5c48.json": {
             "size": 86,
@@ -13746,8 +13662,7 @@
         },
         "assets/ab_ui_miniGame/import/b1/b172f657-cb10-499d-a56c-77982c10443e.json": {
             "size": 203,
-            "md5": "db45dfc6f0795a079386b51ce572fd45",
-            "downloadState": 2
+            "md5": "db45dfc6f0795a079386b51ce572fd45"
         },
         "assets/ab_ui_miniGame/import/b1/b18b1120-5beb-433b-bce6-fcbf4e052541.json": {
             "size": 86,
@@ -13755,18 +13670,15 @@
         },
         "assets/ab_ui_miniGame/import/b1/b1f206e2-b356-4e43-9925-24e4cf7b5562.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/b3/b3da54e0-4771-4dd4-a3e9-592c1c436c09.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/b3/b3e98eb1-4e2b-41a8-b230-d123b88feeb4.json": {
             "size": 200,
-            "md5": "41c69ba4cd9a905d2681db1b484f5072",
-            "downloadState": 2
+            "md5": "41c69ba4cd9a905d2681db1b484f5072"
         },
         "assets/ab_ui_miniGame/import/b4/b4648121-1fca-4be7-8e69-931c2056f2a3.json": {
             "size": 86,
@@ -13782,8 +13694,7 @@
         },
         "assets/ab_ui_miniGame/import/b6/b66b9347-f074-455b-9b38-9036035b7d05.json": {
             "size": 200,
-            "md5": "4820c66296c0a50b6af3d676ad4b9daa",
-            "downloadState": 2
+            "md5": "4820c66296c0a50b6af3d676ad4b9daa"
         },
         "assets/ab_ui_miniGame/import/b6/b6b3bfb8-96a3-479d-9e22-5e3c148d759c.json": {
             "size": 200,
@@ -13819,8 +13730,7 @@
         },
         "assets/ab_ui_miniGame/import/ba/bac211c0-8d21-4512-ba01-b287fc451076.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/bc/bc06c892-b94b-40f7-8447-02aa35ab785a.json": {
             "size": 86,
@@ -13840,8 +13750,7 @@
         },
         "assets/ab_ui_miniGame/import/bd/bd43873a-2e18-4440-9f1d-61d7ff67f639.json": {
             "size": 200,
-            "md5": "a1e2083fb4b5b66f83403ef489c5661a",
-            "downloadState": 2
+            "md5": "a1e2083fb4b5b66f83403ef489c5661a"
         },
         "assets/ab_ui_miniGame/import/bd/bd8c11ad-9198-4c5e-bda0-79b16d2b06c1.json": {
             "size": 86,
@@ -13857,8 +13766,7 @@
         },
         "assets/ab_ui_miniGame/import/be/be38b00e-ad33-4e48-b9ae-b62c11b699dc.json": {
             "size": 200,
-            "md5": "ccb284c1272c9614cde7841d75864a94",
-            "downloadState": 2
+            "md5": "ccb284c1272c9614cde7841d75864a94"
         },
         "assets/ab_ui_miniGame/import/be/be432b08-d34c-4312-96e3-5366e7c9b10c.json": {
             "size": 201,
@@ -13870,8 +13778,7 @@
         },
         "assets/ab_ui_miniGame/import/bf/bf5899f6-2c89-41bf-98e5-9c12ecc5855b.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/c0/c095b933-b055-4c35-8963-30f98f91e03d.json": {
             "size": 86,
@@ -13883,8 +13790,7 @@
         },
         "assets/ab_ui_miniGame/import/c2/c25a34fd-18da-455e-8608-5cb7fd1b6720.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/c2/c29a65f0-5251-4f9e-b9e0-68e4142ae2bc.json": {
             "size": 199,
@@ -13896,8 +13802,7 @@
         },
         "assets/ab_ui_miniGame/import/c3/c35a3938-df18-43c9-8483-6999df8debe9.json": {
             "size": 200,
-            "md5": "1607c3a5449a0b80be96b589a9c3f103",
-            "downloadState": 2
+            "md5": "1607c3a5449a0b80be96b589a9c3f103"
         },
         "assets/ab_ui_miniGame/import/c3/c3a4b546-3d18-4e96-964e-9546238887d0.json": {
             "size": 86,
@@ -13945,13 +13850,11 @@
         },
         "assets/ab_ui_miniGame/import/c7/c75e9a93-5d86-417f-a24d-8d23dbf16cca.json": {
             "size": 200,
-            "md5": "9d0baa32eddd346ca0d7c9e407292c34",
-            "downloadState": 2
+            "md5": "9d0baa32eddd346ca0d7c9e407292c34"
         },
         "assets/ab_ui_miniGame/import/c7/c7c3aff8-4040-4fff-b9f2-aca52e074bc0.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/c7/c7f8570b-d458-4a14-8762-eea602895224.json": {
             "size": 194,
@@ -13963,8 +13866,7 @@
         },
         "assets/ab_ui_miniGame/import/c9/c9f03006-ddda-4142-b5aa-522ecf49d523.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/ca/ca2502c7-3231-4637-b471-7b109f173c45.json": {
             "size": 86,
@@ -13972,8 +13874,7 @@
         },
         "assets/ab_ui_miniGame/import/ca/cae313b9-c1ca-4c60-8527-278ca05b56dc.json": {
             "size": 202,
-            "md5": "f29add027423b3b6fd2deaa067969943",
-            "downloadState": 2
+            "md5": "f29add027423b3b6fd2deaa067969943"
         },
         "assets/ab_ui_miniGame/import/cb/cba22a35-04f9-4503-9980-25c4138ff5be.json": {
             "size": 194,
@@ -14001,13 +13902,11 @@
         },
         "assets/ab_ui_miniGame/import/ce/cef4c4b6-f81b-4a7d-9a66-540223236d17.json": {
             "size": 200,
-            "md5": "9d3d6e400b29e79e962509ae6026d9e8",
-            "downloadState": 2
+            "md5": "9d3d6e400b29e79e962509ae6026d9e8"
         },
         "assets/ab_ui_miniGame/import/cf/cf381d25-f9a2-4c3f-bb6c-a025076b35e3.json": {
             "size": 199,
-            "md5": "2c5cfb82fe5c25c1017078b1e92466f4",
-            "downloadState": 2
+            "md5": "2c5cfb82fe5c25c1017078b1e92466f4"
         },
         "assets/ab_ui_miniGame/import/d0/d0f0aaa9-ccc2-486e-8666-a08afd168121.json": {
             "size": 86,
@@ -14019,8 +13918,7 @@
         },
         "assets/ab_ui_miniGame/import/d2/d245a878-9fd0-4a6a-bf51-b489e143b786.json": {
             "size": 199,
-            "md5": "492fb9c2aab44a7d869a13a461f150fa",
-            "downloadState": 2
+            "md5": "492fb9c2aab44a7d869a13a461f150fa"
         },
         "assets/ab_ui_miniGame/import/d2/d2c4e3fc-c808-4904-b473-948238644d86.json": {
             "size": 201,
@@ -14060,8 +13958,7 @@
         },
         "assets/ab_ui_miniGame/import/d4/d4db9868-374c-46a7-a47d-ebf0de7b0147.json": {
             "size": 215,
-            "md5": "befa69540808cf42e3ffd48f7591728f",
-            "downloadState": 2
+            "md5": "befa69540808cf42e3ffd48f7591728f"
         },
         "assets/ab_ui_miniGame/import/d5/d575cf1e-1efa-4b75-9a2a-a5a70b7d19e1.json": {
             "size": 86,
@@ -14093,8 +13990,7 @@
         },
         "assets/ab_ui_miniGame/import/d7/d7ced3f6-2453-4e12-a682-7bc672147af8.json": {
             "size": 200,
-            "md5": "f6501c002c90e1a375dc5406a65763ae",
-            "downloadState": 2
+            "md5": "f6501c002c90e1a375dc5406a65763ae"
         },
         "assets/ab_ui_miniGame/import/d8/d80919b9-2fc0-40cb-b621-49a000b7ea84.json": {
             "size": 200,
@@ -14106,18 +14002,15 @@
         },
         "assets/ab_ui_miniGame/import/db/db91c4d8-6005-4f2f-89fe-db469e1b5b30.json": {
             "size": 200,
-            "md5": "b5b362ab02b40654adcae6ee98c9c9e5",
-            "downloadState": 2
+            "md5": "b5b362ab02b40654adcae6ee98c9c9e5"
         },
         "assets/ab_ui_miniGame/import/db/dbe6ed8f-026d-46ad-a849-ceaa9567275a.json": {
             "size": 201,
-            "md5": "fa1691b08c6a370cf65e5ffdf4d8eae6",
-            "downloadState": 2
+            "md5": "fa1691b08c6a370cf65e5ffdf4d8eae6"
         },
         "assets/ab_ui_miniGame/import/db/dbf91b6e-c952-4d6d-8d22-56b0388493f9.json": {
             "size": 200,
-            "md5": "03ca4bae24f20d30730e00a1875450e8",
-            "downloadState": 2
+            "md5": "03ca4bae24f20d30730e00a1875450e8"
         },
         "assets/ab_ui_miniGame/import/dc/dce0adfb-8b27-479c-9b59-3fc2c7b215dc.json": {
             "size": 203,
@@ -14137,8 +14030,7 @@
         },
         "assets/ab_ui_miniGame/import/df/df06b59c-ca65-4504-9555-ba6d55874667.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/df/df61afac-94c9-44d7-8108-a371fe287c12.json": {
             "size": 86,
@@ -14154,8 +14046,7 @@
         },
         "assets/ab_ui_miniGame/import/df/dfce4a94-557b-46e7-8de1-d4d267f33fe3.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/df/dfe0e66b-be73-4676-9a56-c0bb7ce826c6.json": {
             "size": 86,
@@ -14167,8 +14058,7 @@
         },
         "assets/ab_ui_miniGame/import/e0/e0a50b6e-734f-4d09-a5fd-600c7475ea1a.json": {
             "size": 200,
-            "md5": "ed697abc5cc9193fe8d70805d7ef1896",
-            "downloadState": 2
+            "md5": "ed697abc5cc9193fe8d70805d7ef1896"
         },
         "assets/ab_ui_miniGame/import/e0/e0ef0ebc-30e2-4f0e-86cb-8250799e8939.json": {
             "size": 202,
@@ -14180,8 +14070,7 @@
         },
         "assets/ab_ui_miniGame/import/e1/e16a3651-e69e-4d59-95b8-e8011fb9737e.json": {
             "size": 199,
-            "md5": "a3d669e6534c4d51686048a40117f0dd",
-            "downloadState": 2
+            "md5": "a3d669e6534c4d51686048a40117f0dd"
         },
         "assets/ab_ui_miniGame/import/e1/e1e73c06-c053-488c-bea1-29e2e04d0f1b.json": {
             "size": 86,
@@ -14205,8 +14094,7 @@
         },
         "assets/ab_ui_miniGame/import/e3/e302ed69-2599-4d87-9134-abd0cb732a80.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/e3/e310373f-cbed-4835-bc3b-e418c9a3a934.json": {
             "size": 200,
@@ -14222,8 +14110,7 @@
         },
         "assets/ab_ui_miniGame/import/e5/e5838227-4f62-466d-a6d2-2f6000d26690.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/e5/e5f19347-f2d4-4df3-ac10-f48f595faf4b.json": {
             "size": 86,
@@ -14235,8 +14122,7 @@
         },
         "assets/ab_ui_miniGame/import/e7/e708095b-c736-491b-930c-2a4cf6264482.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/e8/e832ab13-c42a-4cfb-8911-824ce3e3f53e.json": {
             "size": 202,
@@ -14244,8 +14130,7 @@
         },
         "assets/ab_ui_miniGame/import/e9/e9297fa7-c371-491d-b638-40bcdbb6f7db.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/e9/e9c46143-cbf6-4408-855c-080f04fb4161.json": {
             "size": 86,
@@ -14277,8 +14162,7 @@
         },
         "assets/ab_ui_miniGame/import/ed/edb2df4a-8739-4570-83ee-b009c4660c86.json": {
             "size": 201,
-            "md5": "091a37c92ccc6cbb4de6bb1e6a04e1e8",
-            "downloadState": 2
+            "md5": "091a37c92ccc6cbb4de6bb1e6a04e1e8"
         },
         "assets/ab_ui_miniGame/import/ed/edbf8057-0c09-4335-8e42-920e08bda712.json": {
             "size": 204,
@@ -14386,8 +14270,7 @@
         },
         "assets/ab_ui_miniGame/import/fa/fa828bd6-5a3a-486d-a722-573054ececc3.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/fb/fb068d89-3248-4b87-982b-e2988dda07f6.json": {
             "size": 86,
@@ -14411,18 +14294,15 @@
         },
         "assets/ab_ui_miniGame/import/fe/fe13e1c1-7be0-4f76-907f-1b6e45831fb4.json": {
             "size": 86,
-            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df",
-            "downloadState": 2
+            "md5": "3aed4098e7d2d90a3bd74d3aa31a61df"
         },
         "assets/ab_ui_miniGame/import/fe/fe5c8af2-7f28-46a6-a748-ddcdb83e97ad.json": {
             "size": 199,
-            "md5": "63498f42bf6c9d54e5956473eb4094c8",
-            "downloadState": 2
+            "md5": "63498f42bf6c9d54e5956473eb4094c8"
         },
         "assets/ab_ui_miniGame/import/ff/ff778282-961f-43ec-9302-0c9e2f8a524d.json": {
             "size": 200,
-            "md5": "786cace51806a2b58054004eac25f3bb",
-            "downloadState": 2
+            "md5": "786cace51806a2b58054004eac25f3bb"
         },
         "assets/ab_ui_miniGame/import/ff/ff810ffc-629b-4715-ba93-2e4a583468eb.json": {
             "size": 86,
@@ -14454,8 +14334,7 @@
         },
         "assets/ab_ui_miniGame/native/02/025e9ed6-e019-4153-9a5b-ce8dddb73bb0.png": {
             "size": 12266,
-            "md5": "28c44f170cdfaeb1999e28069c46dcb8",
-            "downloadState": 2
+            "md5": "28c44f170cdfaeb1999e28069c46dcb8"
         },
         "assets/ab_ui_miniGame/native/02/02a54ec8-b3d8-4c6c-acc7-8579ecb1b133.png": {
             "size": 321071,
@@ -14515,8 +14394,7 @@
         },
         "assets/ab_ui_miniGame/native/11/11f58361-a997-4d15-86ec-b40db01db3a2.png": {
             "size": 17555,
-            "md5": "6137236620ebf48a654fa3db3c6cd45c",
-            "downloadState": 2
+            "md5": "6137236620ebf48a654fa3db3c6cd45c"
         },
         "assets/ab_ui_miniGame/native/14/14f0d049-d24d-447b-93bd-28d422c372c1.png": {
             "size": 14340,
@@ -14528,8 +14406,7 @@
         },
         "assets/ab_ui_miniGame/native/17/1709ef1d-da86-43b4-8bf5-24d30469e6c5.png": {
             "size": 290820,
-            "md5": "fb55a9c0ff4427c471094ebaa439f571",
-            "downloadState": 2
+            "md5": "fb55a9c0ff4427c471094ebaa439f571"
         },
         "assets/ab_ui_miniGame/native/17/1729160b-9499-4837-bbb1-27b7a84ac578.png": {
             "size": 12266,
@@ -14589,18 +14466,15 @@
         },
         "assets/ab_ui_miniGame/native/22/2200c812-92bc-4bd0-b96c-cc81a11f054b.png": {
             "size": 9189,
-            "md5": "d038f9e71d38916e7fd1f3e665da0aee",
-            "downloadState": 2
+            "md5": "d038f9e71d38916e7fd1f3e665da0aee"
         },
         "assets/ab_ui_miniGame/native/22/2224b166-f6f9-4722-9274-3d7ec3dde8f7.png": {
             "size": 14340,
-            "md5": "51f8a9720ff3a7dbede2eb121852abc4",
-            "downloadState": 2
+            "md5": "51f8a9720ff3a7dbede2eb121852abc4"
         },
         "assets/ab_ui_miniGame/native/22/2298cca5-ed39-4f43-9d25-fdd5e075672f.png": {
             "size": 301672,
-            "md5": "0074caec50cdcdfad5390c3c31043d3f",
-            "downloadState": 2
+            "md5": "0074caec50cdcdfad5390c3c31043d3f"
         },
         "assets/ab_ui_miniGame/native/25/25b92e7f-af9d-48d4-a055-c1adef64f999.png": {
             "size": 18919,
@@ -14616,18 +14490,15 @@
         },
         "assets/ab_ui_miniGame/native/26/2662dadc-a306-4af3-af2d-71d37fdd0732.png": {
             "size": 303019,
-            "md5": "aacacd8c027d72f717271450f4ad2766",
-            "downloadState": 2
+            "md5": "aacacd8c027d72f717271450f4ad2766"
         },
         "assets/ab_ui_miniGame/native/27/27568cde-af5e-4ce6-8a36-2a25336efb25.png": {
             "size": 262875,
-            "md5": "7e46e3b0b4fe7a37f8035590843f3aa5",
-            "downloadState": 2
+            "md5": "7e46e3b0b4fe7a37f8035590843f3aa5"
         },
         "assets/ab_ui_miniGame/native/28/28c16ca7-7639-471d-b049-86721bf2de02.png": {
             "size": 16924,
-            "md5": "133d69e06db66c7c244825905e8080db",
-            "downloadState": 2
+            "md5": "133d69e06db66c7c244825905e8080db"
         },
         "assets/ab_ui_miniGame/native/29/29555afd-fc6c-4013-9cab-ee8135570ea2.png": {
             "size": 1842,
@@ -14639,8 +14510,7 @@
         },
         "assets/ab_ui_miniGame/native/2a/2a85e400-a12e-439c-877e-3c1cfab620a5.png": {
             "size": 11830,
-            "md5": "b98e98c4a2bf2a26365c418c241b0101",
-            "downloadState": 2
+            "md5": "b98e98c4a2bf2a26365c418c241b0101"
         },
         "assets/ab_ui_miniGame/native/2b/2b02b945-ed2e-4f78-8884-d0c5bd690c9e.png": {
             "size": 279660,
@@ -14688,13 +14558,11 @@
         },
         "assets/ab_ui_miniGame/native/36/3665b838-04ca-4566-a614-12c681eb2788.png": {
             "size": 293856,
-            "md5": "8d2e246cbed0d0b18c14f710dad5439d",
-            "downloadState": 2
+            "md5": "8d2e246cbed0d0b18c14f710dad5439d"
         },
         "assets/ab_ui_miniGame/native/39/39d5caaa-5740-4c04-800f-5cf5ab3eda97.png": {
             "size": 13861,
-            "md5": "433d33f9483c4cc9fef6933ceb705528",
-            "downloadState": 2
+            "md5": "433d33f9483c4cc9fef6933ceb705528"
         },
         "assets/ab_ui_miniGame/native/3a/3a54d568-f1e8-4ef6-bc74-65d1371f53e4.png": {
             "size": 16924,
@@ -14710,8 +14578,7 @@
         },
         "assets/ab_ui_miniGame/native/3f/3f956d72-a584-4afe-9b3c-c767e610c517.png": {
             "size": 293617,
-            "md5": "d5c101f286330ca4319e08649f807eda",
-            "downloadState": 2
+            "md5": "d5c101f286330ca4319e08649f807eda"
         },
         "assets/ab_ui_miniGame/native/3f/3fc65d58-9760-4310-b9e3-b206bd1afec0.png": {
             "size": 303019,
@@ -14719,8 +14586,7 @@
         },
         "assets/ab_ui_miniGame/native/41/4127bbea-c29e-4d80-b411-032ab8ff99a7.png": {
             "size": 14004,
-            "md5": "51d2ddc467e6ccfd401912ca2ab784ff",
-            "downloadState": 2
+            "md5": "51d2ddc467e6ccfd401912ca2ab784ff"
         },
         "assets/ab_ui_miniGame/native/41/4165a32a-6d84-4835-ae42-11decf78473f.png": {
             "size": 293856,
@@ -14788,8 +14654,7 @@
         },
         "assets/ab_ui_miniGame/native/48/488af77e-4920-4398-9fdb-1d9b24e3a237.png": {
             "size": 15649,
-            "md5": "0bae3b310645bc9a71ea67c4fbca33b0",
-            "downloadState": 2
+            "md5": "0bae3b310645bc9a71ea67c4fbca33b0"
         },
         "assets/ab_ui_miniGame/native/49/4994bac1-fac4-4cff-ae4c-62b30cef22ba.png": {
             "size": 29359,
@@ -14801,8 +14666,7 @@
         },
         "assets/ab_ui_miniGame/native/4a/4ad50e27-80e6-469a-9091-7850a256b489.png": {
             "size": 303019,
-            "md5": "aacacd8c027d72f717271450f4ad2766",
-            "downloadState": 2
+            "md5": "aacacd8c027d72f717271450f4ad2766"
         },
         "assets/ab_ui_miniGame/native/4c/4cd6c304-f876-4702-9540-002bfc1f37e7.png": {
             "size": 300503,
@@ -14850,8 +14714,7 @@
         },
         "assets/ab_ui_miniGame/native/54/54bcaa3b-8521-4d25-8fbf-d11109f10917.png": {
             "size": 14340,
-            "md5": "51f8a9720ff3a7dbede2eb121852abc4",
-            "downloadState": 2
+            "md5": "51f8a9720ff3a7dbede2eb121852abc4"
         },
         "assets/ab_ui_miniGame/native/54/54d3938e-08d8-49a1-9397-91d81d868c0f.png": {
             "size": 13007,
@@ -14871,18 +14734,15 @@
         },
         "assets/ab_ui_miniGame/native/57/57b4abce-01cc-493c-b4a0-509b1948400c.png": {
             "size": 16924,
-            "md5": "133d69e06db66c7c244825905e8080db",
-            "downloadState": 2
+            "md5": "133d69e06db66c7c244825905e8080db"
         },
         "assets/ab_ui_miniGame/native/58/58f2b68b-286e-46b9-93ec-2a43d7b4748e.png": {
             "size": 13861,
-            "md5": "433d33f9483c4cc9fef6933ceb705528",
-            "downloadState": 2
+            "md5": "433d33f9483c4cc9fef6933ceb705528"
         },
         "assets/ab_ui_miniGame/native/59/598982ba-4dd0-4713-acad-96c362316f0c.png": {
             "size": 13861,
-            "md5": "433d33f9483c4cc9fef6933ceb705528",
-            "downloadState": 2
+            "md5": "433d33f9483c4cc9fef6933ceb705528"
         },
         "assets/ab_ui_miniGame/native/5e/5e66090d-cbcb-44d3-b926-998a5988e43e.png": {
             "size": 18919,
@@ -14910,8 +14770,7 @@
         },
         "assets/ab_ui_miniGame/native/66/66fa2357-0638-4c01-8c10-eb754a5f4415.png": {
             "size": 273862,
-            "md5": "ed828873a2b8eb91cbe235840daca4e3",
-            "downloadState": 2
+            "md5": "ed828873a2b8eb91cbe235840daca4e3"
         },
         "assets/ab_ui_miniGame/native/67/670ed324-e438-4af1-a745-b47011a8faf5.png": {
             "size": 293856,
@@ -14927,8 +14786,7 @@
         },
         "assets/ab_ui_miniGame/native/6a/6aabd8c5-6908-4d36-b9a8-7e23c6361d3c.png": {
             "size": 225158,
-            "md5": "f01289966535ba59fb6d351eb52ec6ad",
-            "downloadState": 2
+            "md5": "f01289966535ba59fb6d351eb52ec6ad"
         },
         "assets/ab_ui_miniGame/native/6a/6abd3019-95b6-4df3-8d9a-b8571b2d97b5.png": {
             "size": 13861,
@@ -14944,8 +14802,7 @@
         },
         "assets/ab_ui_miniGame/native/6e/6e16ce7d-07c8-4253-99d3-3c79e2cd9468.png": {
             "size": 293856,
-            "md5": "8d2e246cbed0d0b18c14f710dad5439d",
-            "downloadState": 2
+            "md5": "8d2e246cbed0d0b18c14f710dad5439d"
         },
         "assets/ab_ui_miniGame/native/6e/6e41d704-1e92-46c2-8b1d-eb828aace99a.png": {
             "size": 17555,
@@ -14957,13 +14814,11 @@
         },
         "assets/ab_ui_miniGame/native/73/730ed16b-0eca-42b6-b4a3-da49f26cf8a7.png": {
             "size": 7124,
-            "md5": "706a719c4271dadf39147fa53c18fec3",
-            "downloadState": 2
+            "md5": "706a719c4271dadf39147fa53c18fec3"
         },
         "assets/ab_ui_miniGame/native/74/742bc766-abe9-46b2-afa2-a00b6c34fa9e.png": {
             "size": 248291,
-            "md5": "e05b4f8b5adb052dfb50e28a6a557c68",
-            "downloadState": 2
+            "md5": "e05b4f8b5adb052dfb50e28a6a557c68"
         },
         "assets/ab_ui_miniGame/native/74/74f74143-da53-4239-80ad-10322c917d69.png": {
             "size": 11511,
@@ -15015,8 +14870,7 @@
         },
         "assets/ab_ui_miniGame/native/80/80b0453f-5078-478a-9b98-f162ae047a0b.png": {
             "size": 293856,
-            "md5": "8d2e246cbed0d0b18c14f710dad5439d",
-            "downloadState": 2
+            "md5": "8d2e246cbed0d0b18c14f710dad5439d"
         },
         "assets/ab_ui_miniGame/native/81/81e7dd70-06ac-4a0c-9f6a-0fecbc6ecf07.png": {
             "size": 293617,
@@ -15036,8 +14890,7 @@
         },
         "assets/ab_ui_miniGame/native/87/877e0193-478d-4834-a968-634990ecd404.png": {
             "size": 321071,
-            "md5": "3775eba4bc3ef80a34483e03559fb3f6",
-            "downloadState": 2
+            "md5": "3775eba4bc3ef80a34483e03559fb3f6"
         },
         "assets/ab_ui_miniGame/native/87/8789ded4-98cd-4b19-a211-f2ce1860e7b2.png": {
             "size": 12417,
@@ -15045,8 +14898,7 @@
         },
         "assets/ab_ui_miniGame/native/89/89f7c382-5b20-4859-971d-0ecd24276a5c.png": {
             "size": 12266,
-            "md5": "28c44f170cdfaeb1999e28069c46dcb8",
-            "downloadState": 2
+            "md5": "28c44f170cdfaeb1999e28069c46dcb8"
         },
         "assets/ab_ui_miniGame/native/8a/8a791df0-6d1e-41a5-9eab-d3be338e0b42.png": {
             "size": 324447,
@@ -15058,8 +14910,7 @@
         },
         "assets/ab_ui_miniGame/native/8c/8c95a7bc-bc3c-4924-bd4e-b0ab030c992b.png": {
             "size": 11511,
-            "md5": "2211fe12c9b72093e5576602924c9f30",
-            "downloadState": 2
+            "md5": "2211fe12c9b72093e5576602924c9f30"
         },
         "assets/ab_ui_miniGame/native/8d/8d15a0d0-17fc-4148-9369-9846974dbc71.png": {
             "size": 9189,
@@ -15067,8 +14918,7 @@
         },
         "assets/ab_ui_miniGame/native/8d/8df321dd-f265-40bb-814d-1696bc2a318a.png": {
             "size": 12417,
-            "md5": "5fdd012d60be5dfabedcf39522c39c62",
-            "downloadState": 2
+            "md5": "5fdd012d60be5dfabedcf39522c39c62"
         },
         "assets/ab_ui_miniGame/native/8f/8f2eec4b-4ed2-4168-aef5-325effdfbcb6.png": {
             "size": 786695,
@@ -15088,8 +14938,7 @@
         },
         "assets/ab_ui_miniGame/native/94/943b6bfb-0c16-49de-858d-d7180c4feab5.png": {
             "size": 300503,
-            "md5": "da6f90d6795655fe402fb25e2a5d4df8",
-            "downloadState": 2
+            "md5": "da6f90d6795655fe402fb25e2a5d4df8"
         },
         "assets/ab_ui_miniGame/native/95/95cc3faa-587a-4240-9023-7c9a8a34e72f.png": {
             "size": 12266,
@@ -15109,8 +14958,7 @@
         },
         "assets/ab_ui_miniGame/native/99/99a37bf4-6df1-460c-8190-0e42c9d5756c.png": {
             "size": 313199,
-            "md5": "9f84a31713bbaee61edf62d9ebecd515",
-            "downloadState": 2
+            "md5": "9f84a31713bbaee61edf62d9ebecd515"
         },
         "assets/ab_ui_miniGame/native/9a/9a38a70b-d52f-4cdd-bfec-63bf12aee130.png": {
             "size": 293617,
@@ -15126,8 +14974,7 @@
         },
         "assets/ab_ui_miniGame/native/9c/9c37dc28-1586-4871-bac1-e5f2f8b6fc92.png": {
             "size": 18639,
-            "md5": "2ebd8739a604a67de355b2e25db40347",
-            "downloadState": 2
+            "md5": "2ebd8739a604a67de355b2e25db40347"
         },
         "assets/ab_ui_miniGame/native/9c/9c3fc0a0-6664-4ab4-8fb7-5a98c148ed9b.png": {
             "size": 12266,
@@ -15139,8 +14986,7 @@
         },
         "assets/ab_ui_miniGame/native/9d/9d0ac4b3-eb11-4a76-b738-f25a5fbb8a51.png": {
             "size": 16924,
-            "md5": "133d69e06db66c7c244825905e8080db",
-            "downloadState": 2
+            "md5": "133d69e06db66c7c244825905e8080db"
         },
         "assets/ab_ui_miniGame/native/a0/a0089e57-ed1b-42b6-846c-dbf501cd87f1.png": {
             "size": 15385,
@@ -15156,8 +15002,7 @@
         },
         "assets/ab_ui_miniGame/native/a4/a43568e8-bce3-4457-b6fd-33b9fd856c6d.png": {
             "size": 195932,
-            "md5": "a7aa189d67455ef4124d5a1bb36c302f",
-            "downloadState": 2
+            "md5": "a7aa189d67455ef4124d5a1bb36c302f"
         },
         "assets/ab_ui_miniGame/native/a5/a503cc2c-58aa-4a3b-897f-0a73f3b9f9fe.png": {
             "size": 313199,
@@ -15173,8 +15018,7 @@
         },
         "assets/ab_ui_miniGame/native/a6/a68571ce-8556-4848-9148-4d167770238f.png": {
             "size": 11511,
-            "md5": "2211fe12c9b72093e5576602924c9f30",
-            "downloadState": 2
+            "md5": "2211fe12c9b72093e5576602924c9f30"
         },
         "assets/ab_ui_miniGame/native/a8/a821641d-3bf3-402f-8b54-e68749d641bb.png": {
             "size": 7124,
@@ -15182,8 +15026,7 @@
         },
         "assets/ab_ui_miniGame/native/a8/a8a830b1-22df-4ac4-af05-b39f8b132903.png": {
             "size": 308899,
-            "md5": "433bd6a5b8295f0bb175c62dd782b505",
-            "downloadState": 2
+            "md5": "433bd6a5b8295f0bb175c62dd782b505"
         },
         "assets/ab_ui_miniGame/native/aa/aa3a5717-4462-489c-a6ce-1664110cc14b.png": {
             "size": 225158,
@@ -15199,8 +15042,7 @@
         },
         "assets/ab_ui_miniGame/native/ad/ad093d55-77ec-4801-81a7-4a5c2ac443bd.png": {
             "size": 6318,
-            "md5": "708ecb8f854e678d61e6c7482601b2d2",
-            "downloadState": 2
+            "md5": "708ecb8f854e678d61e6c7482601b2d2"
         },
         "assets/ab_ui_miniGame/native/ad/adbfa214-c6c1-4664-b166-cd3b7e2537c9.png": {
             "size": 28277,
@@ -15224,13 +15066,11 @@
         },
         "assets/ab_ui_miniGame/native/b1/b1f206e2-b356-4e43-9925-24e4cf7b5562.png": {
             "size": 11732,
-            "md5": "ff5a8a69041b69b8f6d4e56e2381661f",
-            "downloadState": 2
+            "md5": "ff5a8a69041b69b8f6d4e56e2381661f"
         },
         "assets/ab_ui_miniGame/native/b3/b3da54e0-4771-4dd4-a3e9-592c1c436c09.png": {
             "size": 303019,
-            "md5": "aacacd8c027d72f717271450f4ad2766",
-            "downloadState": 2
+            "md5": "aacacd8c027d72f717271450f4ad2766"
         },
         "assets/ab_ui_miniGame/native/b4/b4648121-1fca-4be7-8e69-931c2056f2a3.png": {
             "size": 13861,
@@ -15254,8 +15094,7 @@
         },
         "assets/ab_ui_miniGame/native/ba/bac211c0-8d21-4512-ba01-b287fc451076.png": {
             "size": 5095,
-            "md5": "2db5493ed0ffd8fa942beadb5d39df59",
-            "downloadState": 2
+            "md5": "2db5493ed0ffd8fa942beadb5d39df59"
         },
         "assets/ab_ui_miniGame/native/bc/bc06c892-b94b-40f7-8447-02aa35ab785a.png": {
             "size": 15385,
@@ -15287,8 +15126,7 @@
         },
         "assets/ab_ui_miniGame/native/bf/bf5899f6-2c89-41bf-98e5-9c12ecc5855b.png": {
             "size": 279660,
-            "md5": "688c19c8b118da676a9a96360070a06f",
-            "downloadState": 2
+            "md5": "688c19c8b118da676a9a96360070a06f"
         },
         "assets/ab_ui_miniGame/native/c0/c095b933-b055-4c35-8963-30f98f91e03d.png": {
             "size": 248291,
@@ -15300,8 +15138,7 @@
         },
         "assets/ab_ui_miniGame/native/c2/c25a34fd-18da-455e-8608-5cb7fd1b6720.png": {
             "size": 786695,
-            "md5": "69122d5725ea816a589ac1dd013158fa",
-            "downloadState": 2
+            "md5": "69122d5725ea816a589ac1dd013158fa"
         },
         "assets/ab_ui_miniGame/native/c2/c2e315d1-9211-456a-96f7-5094102247a3.png": {
             "size": 14913,
@@ -15341,8 +15178,7 @@
         },
         "assets/ab_ui_miniGame/native/c7/c7c3aff8-4040-4fff-b9f2-aca52e074bc0.png": {
             "size": 18639,
-            "md5": "2ebd8739a604a67de355b2e25db40347",
-            "downloadState": 2
+            "md5": "2ebd8739a604a67de355b2e25db40347"
         },
         "assets/ab_ui_miniGame/native/c9/c9c2bc8d-1025-4a4a-9153-984980cf960d.png": {
             "size": 6318,
@@ -15350,8 +15186,7 @@
         },
         "assets/ab_ui_miniGame/native/c9/c9f03006-ddda-4142-b5aa-522ecf49d523.png": {
             "size": 15385,
-            "md5": "8dd6fea4ed0ae96ebb415d03cb9a2989",
-            "downloadState": 2
+            "md5": "8dd6fea4ed0ae96ebb415d03cb9a2989"
         },
         "assets/ab_ui_miniGame/native/ca/ca2502c7-3231-4637-b471-7b109f173c45.png": {
             "size": 308899,
@@ -15415,8 +15250,7 @@
         },
         "assets/ab_ui_miniGame/native/df/df06b59c-ca65-4504-9555-ba6d55874667.png": {
             "size": 14340,
-            "md5": "51f8a9720ff3a7dbede2eb121852abc4",
-            "downloadState": 2
+            "md5": "51f8a9720ff3a7dbede2eb121852abc4"
         },
         "assets/ab_ui_miniGame/native/df/df61afac-94c9-44d7-8108-a371fe287c12.png": {
             "size": 13861,
@@ -15432,8 +15266,7 @@
         },
         "assets/ab_ui_miniGame/native/df/dfce4a94-557b-46e7-8de1-d4d267f33fe3.png": {
             "size": 13846,
-            "md5": "f54859bc21a56c8f383e8d6f5d870bc0",
-            "downloadState": 2
+            "md5": "f54859bc21a56c8f383e8d6f5d870bc0"
         },
         "assets/ab_ui_miniGame/native/df/dfe0e66b-be73-4676-9a56-c0bb7ce826c6.png": {
             "size": 786695,
@@ -15457,8 +15290,7 @@
         },
         "assets/ab_ui_miniGame/native/e3/e302ed69-2599-4d87-9134-abd0cb732a80.png": {
             "size": 18639,
-            "md5": "2ebd8739a604a67de355b2e25db40347",
-            "downloadState": 2
+            "md5": "2ebd8739a604a67de355b2e25db40347"
         },
         "assets/ab_ui_miniGame/native/e3/e3a4ba87-a2e0-4ea0-ba16-0ecc4f148878.png": {
             "size": 3692,
@@ -15470,8 +15302,7 @@
         },
         "assets/ab_ui_miniGame/native/e5/e5838227-4f62-466d-a6d2-2f6000d26690.png": {
             "size": 11511,
-            "md5": "2211fe12c9b72093e5576602924c9f30",
-            "downloadState": 2
+            "md5": "2211fe12c9b72093e5576602924c9f30"
         },
         "assets/ab_ui_miniGame/native/e5/e5f19347-f2d4-4df3-ac10-f48f595faf4b.png": {
             "size": 18639,
@@ -15483,13 +15314,11 @@
         },
         "assets/ab_ui_miniGame/native/e7/e708095b-c736-491b-930c-2a4cf6264482.png": {
             "size": 18919,
-            "md5": "a493a749c0ef211651bfd1229704f237",
-            "downloadState": 2
+            "md5": "a493a749c0ef211651bfd1229704f237"
         },
         "assets/ab_ui_miniGame/native/e9/e9297fa7-c371-491d-b638-40bcdbb6f7db.png": {
             "size": 12266,
-            "md5": "28c44f170cdfaeb1999e28069c46dcb8",
-            "downloadState": 2
+            "md5": "28c44f170cdfaeb1999e28069c46dcb8"
         },
         "assets/ab_ui_miniGame/native/e9/e9c46143-cbf6-4408-855c-080f04fb4161.png": {
             "size": 13861,
@@ -15573,8 +15402,7 @@
         },
         "assets/ab_ui_miniGame/native/fa/fa828bd6-5a3a-486d-a722-573054ececc3.png": {
             "size": 15385,
-            "md5": "8dd6fea4ed0ae96ebb415d03cb9a2989",
-            "downloadState": 2
+            "md5": "8dd6fea4ed0ae96ebb415d03cb9a2989"
         },
         "assets/ab_ui_miniGame/native/fb/fb068d89-3248-4b87-982b-e2988dda07f6.png": {
             "size": 180339,
@@ -15594,8 +15422,7 @@
         },
         "assets/ab_ui_miniGame/native/fe/fe13e1c1-7be0-4f76-907f-1b6e45831fb4.png": {
             "size": 8973,
-            "md5": "b0a9b0f858546563bbc4e3d0681b1112",
-            "downloadState": 2
+            "md5": "b0a9b0f858546563bbc4e3d0681b1112"
         },
         "assets/ab_ui_miniGame/native/ff/ff810ffc-629b-4715-ba93-2e4a583468eb.png": {
             "size": 16924,
@@ -26466,8 +26293,8 @@
             "md5": "6fe44bafa6c6b24638ec18212f1605fc"
         },
         "assets/main/index.jsc": {
-            "size": 1113220,
-            "md5": "9a63c2333b7650066e5bc0f85a69b86d",
+            "size": 1113236,
+            "md5": "e9ef1c998bbf4124631e98b2f241afce",
             "downloadState": 2
         },
         "assets/main/native/38/384fb871-5baf-4517-836e-09fe930cd74c.bin": {
@@ -27216,7 +27043,7 @@
         },
         "assets/resources/import/0a/0ab57770-5dbe-4856-8d99-02103489e784.json": {
             "size": 798,
-            "md5": "fa23f2669eaaa2be0dd7725af68ebf0d",
+            "md5": "dc54d1d95e93898f0a88ce22e7731006",
             "downloadState": 2
         },
         "assets/resources/import/0a/0ab6bc5e-2e3a-4f47-8fbb-f3427153567e.json": {
@@ -39577,8 +39404,7 @@
         },
         "assets/resources/import/c4/c4e10e43-a468-49f3-bfa6-24616822ccb5.json": {
             "size": 1487609,
-            "md5": "78a64bc210621956393601cf3817b484",
-            "downloadState": 2
+            "md5": "78a64bc210621956393601cf3817b484"
         },
         "assets/resources/import/c4/c4f57a6f-acdf-414c-8a4f-8ef8d1fa4bc5.json": {
             "size": 124,
@@ -43442,8 +43268,7 @@
         },
         "assets/resources/native/03/03b13349-9bc7-4a95-a435-8ec518265b1e.bin": {
             "size": 1871,
-            "md5": "af1aab12945426f74dd5bff97f559b38",
-            "downloadState": 2
+            "md5": "af1aab12945426f74dd5bff97f559b38"
         },
         "assets/resources/native/03/03dbb9d7-9246-4c82-be74-fe78c72c1b72.png": {
             "size": 192,
@@ -43479,8 +43304,7 @@
         },
         "assets/resources/native/04/04c0019f-0756-4f26-8e95-8024cdee140c.bin": {
             "size": 1036,
-            "md5": "03787f9184fb48bb2982d80aeb8cbabf",
-            "downloadState": 2
+            "md5": "03787f9184fb48bb2982d80aeb8cbabf"
         },
         "assets/resources/native/05/050ebb4b-7290-49fc-b47e-f5da3e5caa1f.png": {
             "size": 8804,
@@ -43552,8 +43376,7 @@
         },
         "assets/resources/native/06/06573087-62d4-4713-bc42-9acaf9b1cc2c.bin": {
             "size": 28353,
-            "md5": "f15f9f9405fd0223a7e78fede7fc218a",
-            "downloadState": 2
+            "md5": "f15f9f9405fd0223a7e78fede7fc218a"
         },
         "assets/resources/native/06/06582b85-969e-4b90-bdd2-0c598ef98269.png": {
             "size": 604,
@@ -43733,8 +43556,7 @@
         },
         "assets/resources/native/0c/0cd0ee8d-5b60-45a7-8360-dbb62464d983.bin": {
             "size": 86,
-            "md5": "ea3abae2e7f6d9a31b8dc7ba1aef79cf",
-            "downloadState": 2
+            "md5": "ea3abae2e7f6d9a31b8dc7ba1aef79cf"
         },
         "assets/resources/native/0c/0cda5c3f-d2e9-4298-ac6f-18474543f3b1.jpg": {
             "size": 4627,
@@ -43822,8 +43644,7 @@
         },
         "assets/resources/native/0e/0ec627d6-9d7c-471d-a9d6-89e55ec319aa.bin": {
             "size": 28353,
-            "md5": "f15f9f9405fd0223a7e78fede7fc218a",
-            "downloadState": 2
+            "md5": "f15f9f9405fd0223a7e78fede7fc218a"
         },
         "assets/resources/native/0e/0ee6c0b6-e282-498b-8a77-83b353e32c8c.png": {
             "size": 732,
@@ -43931,8 +43752,7 @@
         },
         "assets/resources/native/13/138794df-80ec-462d-99da-70f819813b3a.bin": {
             "size": 40173,
-            "md5": "afa636b417ab0e1217736c461a7cf30e",
-            "downloadState": 2
+            "md5": "afa636b417ab0e1217736c461a7cf30e"
         },
         "assets/resources/native/13/13a1e967-66ba-447f-8bcc-195b3dbb0e1c.png": {
             "size": 1050,
@@ -43976,21 +43796,19 @@
         },
         "assets/resources/native/14/146713de-2c7a-4e91-9b10-c4a99df59dca.bin": {
             "size": 86,
-            "md5": "ea3abae2e7f6d9a31b8dc7ba1aef79cf",
-            "downloadState": 2
+            "md5": "ea3abae2e7f6d9a31b8dc7ba1aef79cf"
         },
         "assets/resources/native/14/146ee062-41b8-4cf5-a74d-2eac6b91f095.bin": {
             "size": 2033,
-            "md5": "802425fb1eb7c9da8e0291d2df30a935",
-            "downloadState": 2
+            "md5": "802425fb1eb7c9da8e0291d2df30a935"
         },
         "assets/resources/native/14/14da77fd-75c7-4376-b19e-0a6ba84bb26b.png": {
             "size": 1779,
             "md5": "15b149b64377aabbcfc1a4d4470630f5"
         },
         "assets/resources/native/14/14db62f3-35fe-4abf-b7e0-e7cebc52817c.bin": {
-            "size": 4563,
-            "md5": "96480481795a4b60e2059ace0dc22093",
+            "size": 4941,
+            "md5": "9418128dd6f1058a236e2687b9349bc2",
             "downloadState": 2
         },
         "assets/resources/native/14/14ed626a-7d62-4268-80ec-8fa0b896bd9a.png": {
@@ -44071,8 +43889,7 @@
         },
         "assets/resources/native/16/16e5e1d6-fe70-4dc8-8fcc-f7b6c91c5658.bin": {
             "size": 292,
-            "md5": "0f14f6a06551a86efce36c36140d5ff2",
-            "downloadState": 2
+            "md5": "0f14f6a06551a86efce36c36140d5ff2"
         },
         "assets/resources/native/16/16ed1486-c3d2-4240-9b98-ab3758e84312.png": {
             "size": 12332,
@@ -44136,8 +43953,7 @@
         },
         "assets/resources/native/18/18bf2d99-00bd-4fcd-89d3-9554c62c4830.bin": {
             "size": 2670,
-            "md5": "6380147893c912d898cb90f495b0ffac",
-            "downloadState": 2
+            "md5": "6380147893c912d898cb90f495b0ffac"
         },
         "assets/resources/native/18/18dfa7d2-be63-43fa-a73d-36219b079f36.jpg": {
             "size": 115375,
@@ -44357,8 +44173,7 @@
         },
         "assets/resources/native/1e/1e9bb289-561a-4f24-aa2d-4396eaafa833.bin": {
             "size": 1423,
-            "md5": "59b47f2dd6321ac2abf979a2931317d0",
-            "downloadState": 2
+            "md5": "59b47f2dd6321ac2abf979a2931317d0"
         },
         "assets/resources/native/1e/1e9f13d8-c92f-45e1-a062-6ff7021a4730.png": {
             "size": 4071,
@@ -44681,8 +44496,8 @@
             "md5": "f5b829a6744b5542d966456f9a2dfe2b"
         },
         "assets/resources/native/27/27ce5fec-d6b7-4e2e-9dfa-83dc0fbc60f7.bin": {
-            "size": 4563,
-            "md5": "96480481795a4b60e2059ace0dc22093",
+            "size": 4941,
+            "md5": "9418128dd6f1058a236e2687b9349bc2",
             "downloadState": 2
         },
         "assets/resources/native/28/280cd2e7-4f5d-4189-aa50-e4bb01fa5861.jpg": {
@@ -44691,8 +44506,7 @@
         },
         "assets/resources/native/28/28198459-6dc1-4050-99e8-f071f526a74e.bin": {
             "size": 3425,
-            "md5": "c1514bf75015c4f22e885fafb28ec28e",
-            "downloadState": 2
+            "md5": "c1514bf75015c4f22e885fafb28ec28e"
         },
         "assets/resources/native/28/28338442-76f0-4505-9d99-f0d003fc15d4.png": {
             "size": 4007,
@@ -44880,8 +44694,7 @@
         },
         "assets/resources/native/2d/2d7925a6-3012-485e-bc82-ffd2dca12da4.bin": {
             "size": 1871,
-            "md5": "af1aab12945426f74dd5bff97f559b38",
-            "downloadState": 2
+            "md5": "af1aab12945426f74dd5bff97f559b38"
         },
         "assets/resources/native/2d/2d9acf34-2747-4701-9ef5-404267bfd789.mp3": {
             "size": 58558,
@@ -45041,8 +44854,7 @@
         },
         "assets/resources/native/33/33a119a2-eb64-4e3b-a5ec-a6f7e791148f.bin": {
             "size": 292,
-            "md5": "0f14f6a06551a86efce36c36140d5ff2",
-            "downloadState": 2
+            "md5": "0f14f6a06551a86efce36c36140d5ff2"
         },
         "assets/resources/native/33/33b794c1-7c85-4cbd-a8cf-956e0aa1c035.png": {
             "size": 8313,
@@ -45150,16 +44962,16 @@
         },
         "assets/resources/native/37/378b44cb-eefc-44bb-9a91-da8801eb2c45.bin": {
             "size": 639,
-            "md5": "1b9afe0c95a930bf1349ec64af88185b",
-            "downloadState": 2
+            "md5": "1b9afe0c95a930bf1349ec64af88185b"
         },
         "assets/resources/native/37/37b7c30d-2d6c-442f-96d2-e07d2dac864b.png": {
             "size": 7720,
             "md5": "df66abe40f135f892fb24ac9e1379103"
         },
         "assets/resources/native/37/37c51102-3f03-4070-bc20-80fdc3fb090a.bin": {
-            "size": 7605,
-            "md5": "cd12b8a483ec7b26ed84732b5afec0c0"
+            "size": 12735,
+            "md5": "2a234d9480ed2e45b59026f893899abf",
+            "downloadState": 2
         },
         "assets/resources/native/38/38399c43-9894-4074-9c46-0e27de383b79.jpg": {
             "size": 4232,
@@ -45275,8 +45087,7 @@
         },
         "assets/resources/native/3b/3b4469b3-b48b-4d35-b7bc-54d6bfb89f96.bin": {
             "size": 62,
-            "md5": "cd0954adebef3b76631499401f11eee8",
-            "downloadState": 2
+            "md5": "cd0954adebef3b76631499401f11eee8"
         },
         "assets/resources/native/3b/3b5d5ae5-08f5-4154-bf7e-1a6b1ee21507.bin": {
             "size": 166,
@@ -45404,8 +45215,7 @@
         },
         "assets/resources/native/3f/3f14ff99-f14e-4664-a566-34f6c40a6c3e.bin": {
             "size": 2902,
-            "md5": "ed364db456593eb4c47fbbe12e3cbc60",
-            "downloadState": 2
+            "md5": "ed364db456593eb4c47fbbe12e3cbc60"
         },
         "assets/resources/native/3f/3f3b478d-78a4-49e9-a11c-586e34e3149a.bin": {
             "size": 513,
@@ -45449,8 +45259,7 @@
         },
         "assets/resources/native/40/40874bd2-0ef3-4d47-9b5a-dfe0a7704a82.bin": {
             "size": 171210,
-            "md5": "e37ccaebb643ee105d62e4a0111b2f45",
-            "downloadState": 2
+            "md5": "e37ccaebb643ee105d62e4a0111b2f45"
         },
         "assets/resources/native/40/40c7aa15-8070-40a9-818b-93cfeac1a517.png": {
             "size": 536,
@@ -46026,8 +45835,7 @@
         },
         "assets/resources/native/4f/4fe98dbc-2207-4605-9380-42fdd6f4fb9f.bin": {
             "size": 9382,
-            "md5": "1d4bbebe389a2775d7ed331e5908681e",
-            "downloadState": 2
+            "md5": "1d4bbebe389a2775d7ed331e5908681e"
         },
         "assets/resources/native/50/50310a6b-c48f-4711-ae51-15ccdb294d1a.png": {
             "size": 110456,
@@ -46103,8 +45911,7 @@
         },
         "assets/resources/native/51/51cf0ef5-fd02-4f68-b396-8262af12c192.bin": {
             "size": 1233,
-            "md5": "ab49b30334d60f147b286f04462f360a",
-            "downloadState": 2
+            "md5": "ab49b30334d60f147b286f04462f360a"
         },
         "assets/resources/native/51/51d94eed-7ba6-4c24-a923-db0cb1c06007.png": {
             "size": 2783,
@@ -46288,8 +46095,7 @@
         },
         "assets/resources/native/57/571ac97d-8aad-4c68-a89d-c831b2e4be9a.bin": {
             "size": 198,
-            "md5": "9d3e464edaf04abaac7ad5421f53df3c",
-            "downloadState": 2
+            "md5": "9d3e464edaf04abaac7ad5421f53df3c"
         },
         "assets/resources/native/57/571f6836-d4e8-425e-87f1-22738ca7b281.png": {
             "size": 178478,
@@ -46401,8 +46207,7 @@
         },
         "assets/resources/native/5a/5a789973-0457-46ce-b519-468698e4424a.bin": {
             "size": 360,
-            "md5": "d5e76991be5f310b6b17749962679bfe",
-            "downloadState": 2
+            "md5": "d5e76991be5f310b6b17749962679bfe"
         },
         "assets/resources/native/5a/5a8adcee-ca13-426f-afac-96f945510586.bin": {
             "size": 508,
@@ -46426,8 +46231,7 @@
         },
         "assets/resources/native/5b/5b4f3951-56b3-4c46-a8b2-0c61ee0a948f.bin": {
             "size": 1036,
-            "md5": "03787f9184fb48bb2982d80aeb8cbabf",
-            "downloadState": 2
+            "md5": "03787f9184fb48bb2982d80aeb8cbabf"
         },
         "assets/resources/native/5b/5b95820a-c21f-46bb-9cf6-a7f69d4e9136.png": {
             "size": 717,
@@ -46483,8 +46287,7 @@
         },
         "assets/resources/native/5d/5dc21283-f4d9-4919-9ffb-ade0156703f3.bin": {
             "size": 522,
-            "md5": "b854ef69c45abb408e39e1a17c2dff4a",
-            "downloadState": 2
+            "md5": "b854ef69c45abb408e39e1a17c2dff4a"
         },
         "assets/resources/native/5d/5dee146f-1947-4a92-94ae-5c2a5d9b74aa.png": {
             "size": 574,
@@ -46620,8 +46423,7 @@
         },
         "assets/resources/native/61/6178ada6-90ee-4e19-a356-5995bf8cc663.bin": {
             "size": 1365,
-            "md5": "7b02ac203496c16f95a9b9243c431b76",
-            "downloadState": 2
+            "md5": "7b02ac203496c16f95a9b9243c431b76"
         },
         "assets/resources/native/61/61ac362f-8777-4969-b307-13432e24cc1d.png": {
             "size": 8191,
@@ -46737,8 +46539,7 @@
         },
         "assets/resources/native/63/63f2e090-3564-47c7-940a-491321ae5dad.bin": {
             "size": 233,
-            "md5": "a875c4954c51b60d580fa47936b36934",
-            "downloadState": 2
+            "md5": "a875c4954c51b60d580fa47936b36934"
         },
         "assets/resources/native/64/64040795-ee50-409b-987a-df2ea3e871fe.png": {
             "size": 50658,
@@ -46934,8 +46735,7 @@
         },
         "assets/resources/native/6a/6a0220e9-6559-4054-8413-ba9de63a17e9.bin": {
             "size": 2670,
-            "md5": "6380147893c912d898cb90f495b0ffac",
-            "downloadState": 2
+            "md5": "6380147893c912d898cb90f495b0ffac"
         },
         "assets/resources/native/6a/6a062470-0bf0-4082-a15a-ba8c566c64b4.png": {
             "size": 26529,
@@ -46975,8 +46775,7 @@
         },
         "assets/resources/native/6a/6abb75b8-79cd-4407-addf-596ad46fd36a.bin": {
             "size": 11594,
-            "md5": "7a03508596d61cf6520b108172e66c4f",
-            "downloadState": 2
+            "md5": "7a03508596d61cf6520b108172e66c4f"
         },
         "assets/resources/native/6a/6afd8c12-ed12-41ad-bb6f-033a8d6b8333.png": {
             "size": 892,
@@ -47064,8 +46863,7 @@
         },
         "assets/resources/native/6d/6d00a241-ce37-420a-b4bc-cde9a205f089.bin": {
             "size": 40173,
-            "md5": "afa636b417ab0e1217736c461a7cf30e",
-            "downloadState": 2
+            "md5": "afa636b417ab0e1217736c461a7cf30e"
         },
         "assets/resources/native/6d/6d2f8035-caba-4504-ad0f-c2cfad28c624.png": {
             "size": 1321,
@@ -47129,8 +46927,7 @@
         },
         "assets/resources/native/6f/6f1b39ac-d433-4d8d-99b2-f77df4d5b0dd.bin": {
             "size": 405,
-            "md5": "397222a4e7d4c9c8862f7b49d786ab98",
-            "downloadState": 2
+            "md5": "397222a4e7d4c9c8862f7b49d786ab98"
         },
         "assets/resources/native/6f/6f1ffc7d-5c82-4086-9086-032448299f72.jpg": {
             "size": 4326,
@@ -47270,8 +47067,7 @@
         },
         "assets/resources/native/73/73bb1939-eb62-4f07-b0d2-4572459e47d4.bin": {
             "size": 62,
-            "md5": "cd0954adebef3b76631499401f11eee8",
-            "downloadState": 2
+            "md5": "cd0954adebef3b76631499401f11eee8"
         },
         "assets/resources/native/73/73c02496-e70c-48e3-b1e7-4f4e71370aac.png": {
             "size": 4910,
@@ -47403,8 +47199,7 @@
         },
         "assets/resources/native/77/773068df-420b-4a9f-b9ad-8680d38f426d.bin": {
             "size": 581,
-            "md5": "7f55437084a0948bfef9dbf9424b5a8a",
-            "downloadState": 2
+            "md5": "7f55437084a0948bfef9dbf9424b5a8a"
         },
         "assets/resources/native/77/774bcb54-6721-43d1-9153-c1e367095668.png": {
             "size": 4083,
@@ -47484,8 +47279,7 @@
         },
         "assets/resources/native/7a/7a8661ed-27e4-47c7-a80c-956dad9d17b1.bin": {
             "size": 2850,
-            "md5": "8cd1d8f0b5554028feb7074ef624663d",
-            "downloadState": 2
+            "md5": "8cd1d8f0b5554028feb7074ef624663d"
         },
         "assets/resources/native/7a/7aac8de9-6c9d-451f-ae4c-c8edb11553fd.bin": {
             "size": 314,
@@ -47561,8 +47355,7 @@
         },
         "assets/resources/native/7d/7d2f0c73-21a8-46b9-a7df-bc0b322157c1.bin": {
             "size": 8567,
-            "md5": "7586816f6e04218a9aa794f9ba961942",
-            "downloadState": 2
+            "md5": "7586816f6e04218a9aa794f9ba961942"
         },
         "assets/resources/native/7d/7d653c94-28db-4b73-aa4c-a5a99b2dd0dc.png": {
             "size": 138783,
@@ -47665,8 +47458,9 @@
             "md5": "2310644c85ec52a074c710677a29a1ab"
         },
         "assets/resources/native/80/8042243c-e4c2-4be4-8919-b9dbebc8cbaf.bin": {
-            "size": 7605,
-            "md5": "cd12b8a483ec7b26ed84732b5afec0c0"
+            "size": 12735,
+            "md5": "2a234d9480ed2e45b59026f893899abf",
+            "downloadState": 2
         },
         "assets/resources/native/80/8052a3d4-c0fd-4230-84c0-30e682cb344b.png": {
             "size": 221709,
@@ -47782,8 +47576,7 @@
         },
         "assets/resources/native/84/84491fa3-d442-4321-9ffe-ac820e5c1955.bin": {
             "size": 654,
-            "md5": "01ab5c16c56ec7858556cf0478eaccf5",
-            "downloadState": 2
+            "md5": "01ab5c16c56ec7858556cf0478eaccf5"
         },
         "assets/resources/native/84/84569957-c38f-42fe-9b35-00aeb65c3e24.png": {
             "size": 490901,
@@ -47887,8 +47680,7 @@
         },
         "assets/resources/native/87/87544925-3415-438c-8628-49e885c332b4.bin": {
             "size": 233,
-            "md5": "a875c4954c51b60d580fa47936b36934",
-            "downloadState": 2
+            "md5": "a875c4954c51b60d580fa47936b36934"
         },
         "assets/resources/native/87/8790c0df-788d-452c-a63b-73e4b4f6d168.bin": {
             "size": 4975,
@@ -48003,8 +47795,9 @@
             "md5": "04986fe1eebf5892b705121732ad40df"
         },
         "assets/resources/native/89/89ccdb96-53be-43d2-9583-20cc084fdb1e.bin": {
-            "size": 71850,
-            "md5": "ff75c76110d39eda8b345d3114578873"
+            "size": 96755,
+            "md5": "69a7929b315b3daf297aaf7ef59eb389",
+            "downloadState": 2
         },
         "assets/resources/native/8a/8a2ba27d-b5d7-4c2c-be3e-6da302112f01.png": {
             "size": 1352,
@@ -48132,12 +47925,12 @@
         },
         "assets/resources/native/8c/8cde0dbe-9c8b-4a3a-80d4-3cb485d6a8e5.bin": {
             "size": 639,
-            "md5": "1b9afe0c95a930bf1349ec64af88185b",
-            "downloadState": 2
+            "md5": "1b9afe0c95a930bf1349ec64af88185b"
         },
         "assets/resources/native/8d/8d521b06-eb65-4894-9fce-3e3e048ba161.bin": {
-            "size": 1362,
-            "md5": "3bb30d9bd4bf02dde0556427d0669363"
+            "size": 2142,
+            "md5": "17245164e7d431a53d42648cde3c82ab",
+            "downloadState": 2
         },
         "assets/resources/native/8d/8d949a1c-5d2e-4c7c-9f6a-41a9d0dde3ff.png": {
             "size": 383,
@@ -48232,8 +48025,9 @@
             "md5": "f07da5d0e4a1bc2a0835b61cef5a4f29"
         },
         "assets/resources/native/90/9093e8dd-e474-4928-ac62-f65d087cd9a4.bin": {
-            "size": 71850,
-            "md5": "ff75c76110d39eda8b345d3114578873"
+            "size": 96755,
+            "md5": "69a7929b315b3daf297aaf7ef59eb389",
+            "downloadState": 2
         },
         "assets/resources/native/90/909a7f4a-6ee0-46b9-8074-63dae94bc9c6.png": {
             "size": 2853,
@@ -48333,8 +48127,7 @@
         },
         "assets/resources/native/93/9348d422-4721-41eb-a311-eabbbced2329.bin": {
             "size": 2850,
-            "md5": "8cd1d8f0b5554028feb7074ef624663d",
-            "downloadState": 2
+            "md5": "8cd1d8f0b5554028feb7074ef624663d"
         },
         "assets/resources/native/93/93680193-bb42-442f-87ed-d33b8c36f6e3.jpg": {
             "size": 4974,
@@ -48466,8 +48259,7 @@
         },
         "assets/resources/native/96/9669ae64-4c03-4e9c-8ba3-110a2ac16668.bin": {
             "size": 6055,
-            "md5": "96d93f62c8aa6eb02223ffde67ab78e4",
-            "downloadState": 2
+            "md5": "96d93f62c8aa6eb02223ffde67ab78e4"
         },
         "assets/resources/native/96/968adafd-b8c3-42ad-bb20-700b98d81b72.bin": {
             "size": 134,
@@ -48503,8 +48295,7 @@
         },
         "assets/resources/native/97/97f5fe48-2290-4f7d-bafa-4c50c90d70ea.bin": {
             "size": 1453,
-            "md5": "33fa873b193be7955c06703bdcb21ff9",
-            "downloadState": 2
+            "md5": "33fa873b193be7955c06703bdcb21ff9"
         },
         "assets/resources/native/97/97f6b344-e84a-4c0a-948a-88543368fc30.png": {
             "size": 87931,
@@ -48668,8 +48459,7 @@
         },
         "assets/resources/native/9c/9c9c9e7b-b3f8-4126-8822-87cff3443197.bin": {
             "size": 149280,
-            "md5": "114883b834960a4bda98a71df2c3d827",
-            "downloadState": 2
+            "md5": "114883b834960a4bda98a71df2c3d827"
         },
         "assets/resources/native/9c/9ca5b2de-292d-404a-870c-9be2079806dc.png": {
             "size": 799,
@@ -48685,8 +48475,7 @@
         },
         "assets/resources/native/9d/9d261b0d-08ba-4a1f-b394-10d410fa0b72.bin": {
             "size": 52,
-            "md5": "092392c2c9f028edc0e017e96a2886f5",
-            "downloadState": 2
+            "md5": "092392c2c9f028edc0e017e96a2886f5"
         },
         "assets/resources/native/9d/9d845abf-7ab2-4186-b96b-118f25f36e18.bin": {
             "size": 1751,
@@ -48706,8 +48495,7 @@
         },
         "assets/resources/native/9d/9df241d3-5f69-4f55-badd-0c9b07df0a09.bin": {
             "size": 581,
-            "md5": "7f55437084a0948bfef9dbf9424b5a8a",
-            "downloadState": 2
+            "md5": "7f55437084a0948bfef9dbf9424b5a8a"
         },
         "assets/resources/native/9e/9e165b34-8ec6-45d9-ac71-0532e013f081.png": {
             "size": 4724,
@@ -48739,8 +48527,7 @@
         },
         "assets/resources/native/9e/9ebddd13-8871-48df-9e15-0e7e7a0c6ba1.bin": {
             "size": 52,
-            "md5": "092392c2c9f028edc0e017e96a2886f5",
-            "downloadState": 2
+            "md5": "092392c2c9f028edc0e017e96a2886f5"
         },
         "assets/resources/native/9e/9eded136-75ff-4b59-bebe-fb5f20751f6c.png": {
             "size": 1190,
@@ -48784,8 +48571,7 @@
         },
         "assets/resources/native/9f/9f9ae530-8995-4f2c-9017-be12ef900f5a.bin": {
             "size": 198,
-            "md5": "9d3e464edaf04abaac7ad5421f53df3c",
-            "downloadState": 2
+            "md5": "9d3e464edaf04abaac7ad5421f53df3c"
         },
         "assets/resources/native/9f/9fba5a60-e4c6-4042-9c9e-984a32e8530a.bin": {
             "size": 567,
@@ -48997,8 +48783,7 @@
         },
         "assets/resources/native/a4/a4745781-389e-4dc4-b9d5-597fe72f2150.bin": {
             "size": 11594,
-            "md5": "7a03508596d61cf6520b108172e66c4f",
-            "downloadState": 2
+            "md5": "7a03508596d61cf6520b108172e66c4f"
         },
         "assets/resources/native/a4/a4a01557-f91b-45e9-8759-b1d2a53c5809.bin": {
             "size": 179,
@@ -49086,8 +48871,7 @@
         },
         "assets/resources/native/a7/a7b14690-0daf-45f8-8959-b8c3440b8904.bin": {
             "size": 360,
-            "md5": "d5e76991be5f310b6b17749962679bfe",
-            "downloadState": 2
+            "md5": "d5e76991be5f310b6b17749962679bfe"
         },
         "assets/resources/native/a7/a7cdeca4-d313-4d3f-93ec-78d746a31399.bin": {
             "size": 349,
@@ -49115,8 +48899,7 @@
         },
         "assets/resources/native/a9/a914e5a3-004e-4741-90fa-56b2b0bc0fd9.bin": {
             "size": 171210,
-            "md5": "e37ccaebb643ee105d62e4a0111b2f45",
-            "downloadState": 2
+            "md5": "e37ccaebb643ee105d62e4a0111b2f45"
         },
         "assets/resources/native/a9/a933da86-092c-4f20-bcfe-d31054a323ab.png": {
             "size": 125657,
@@ -49407,8 +49190,9 @@
             "md5": "5b2f8e9cf1c8ef65a39784d424b5cbf9"
         },
         "assets/resources/native/b4/b4906eab-7771-46aa-a71b-4958a572614d.bin": {
-            "size": 1362,
-            "md5": "3bb30d9bd4bf02dde0556427d0669363"
+            "size": 2142,
+            "md5": "17245164e7d431a53d42648cde3c82ab",
+            "downloadState": 2
         },
         "assets/resources/native/b4/b4a4eedd-a408-43c7-9b4b-ad82bafbf68a.png": {
             "size": 134,
@@ -49536,8 +49320,7 @@
         },
         "assets/resources/native/b8/b83bedbd-659f-4739-8897-01105e1870ad.bin": {
             "size": 6584,
-            "md5": "0f00d83f766b343165af82938fa63909",
-            "downloadState": 2
+            "md5": "0f00d83f766b343165af82938fa63909"
         },
         "assets/resources/native/b8/b878941b-12aa-4302-9d1f-bbb632229f1e.jpg": {
             "size": 69328,
@@ -49681,8 +49464,7 @@
         },
         "assets/resources/native/bd/bde2d840-5ecb-4faa-ba81-8b2c591e9e15.bin": {
             "size": 124253,
-            "md5": "ba39ef58f6b665a2dbf661d3553f85c9",
-            "downloadState": 2
+            "md5": "ba39ef58f6b665a2dbf661d3553f85c9"
         },
         "assets/resources/native/be/be07ecef-8664-43db-9219-174c85479686.png": {
             "size": 972,
@@ -49778,8 +49560,7 @@
         },
         "assets/resources/native/c0/c0a409b3-0a0e-4c34-b6f1-aea6720f9eff.bin": {
             "size": 654,
-            "md5": "01ab5c16c56ec7858556cf0478eaccf5",
-            "downloadState": 2
+            "md5": "01ab5c16c56ec7858556cf0478eaccf5"
         },
         "assets/resources/native/c0/c0b8278f-92f2-4ffa-8961-e5c47fab0166.bin": {
             "size": 170,
@@ -49987,8 +49768,7 @@
         },
         "assets/resources/native/c7/c71544d0-2391-4697-8e4f-91f04e8c7c17.bin": {
             "size": 95052,
-            "md5": "21cd20161df04b40bdcd5b2e8d11de0f",
-            "downloadState": 2
+            "md5": "21cd20161df04b40bdcd5b2e8d11de0f"
         },
         "assets/resources/native/c7/c7301929-1f7a-424e-9d0a-db11f943deac.png": {
             "size": 8056,
@@ -50000,8 +49780,7 @@
         },
         "assets/resources/native/c7/c781aaf3-443b-4dd4-bf44-4d65991775a6.bin": {
             "size": 1365,
-            "md5": "7b02ac203496c16f95a9b9243c431b76",
-            "downloadState": 2
+            "md5": "7b02ac203496c16f95a9b9243c431b76"
         },
         "assets/resources/native/c7/c7842e01-bdc0-45d4-9804-1f680bb18d59.png": {
             "size": 5510,
@@ -50061,8 +49840,7 @@
         },
         "assets/resources/native/c9/c963041b-eb94-459e-948e-bd6a30f58270.bin": {
             "size": 1423,
-            "md5": "59b47f2dd6321ac2abf979a2931317d0",
-            "downloadState": 2
+            "md5": "59b47f2dd6321ac2abf979a2931317d0"
         },
         "assets/resources/native/c9/c989d9d9-f277-4cd2-9985-537fa2dbf310.png": {
             "size": 18007,
@@ -50566,8 +50344,7 @@
         },
         "assets/resources/native/dc/dc2e2df0-c777-4498-9845-ba09666d85b8.bin": {
             "size": 2355,
-            "md5": "bda3a5991c30a17c7b53d793b9ea3acb",
-            "downloadState": 2
+            "md5": "bda3a5991c30a17c7b53d793b9ea3acb"
         },
         "assets/resources/native/dc/dc4afa37-ddbc-4ca1-926e-c2e65a5e39a4.png": {
             "size": 303511,
@@ -50667,8 +50444,7 @@
         },
         "assets/resources/native/df/df70f2db-4922-4497-91e9-6d0118b6f9e0.bin": {
             "size": 1233,
-            "md5": "ab49b30334d60f147b286f04462f360a",
-            "downloadState": 2
+            "md5": "ab49b30334d60f147b286f04462f360a"
         },
         "assets/resources/native/df/df8c217b-e9d1-4619-a0e0-640dc08c16f9.png": {
             "size": 2023,
@@ -51052,8 +50828,7 @@
         },
         "assets/resources/native/ed/ed3d2e22-3fc8-4dc5-bfdf-87fb5545d09e.bin": {
             "size": 522,
-            "md5": "b854ef69c45abb408e39e1a17c2dff4a",
-            "downloadState": 2
+            "md5": "b854ef69c45abb408e39e1a17c2dff4a"
         },
         "assets/resources/native/ed/ed938533-1fb6-448e-bdd2-69472775b082.png": {
             "size": 408,
@@ -51309,8 +51084,7 @@
         },
         "assets/resources/native/f4/f4a4ac90-7113-4758-b52e-682a92a7bab6.bin": {
             "size": 405,
-            "md5": "397222a4e7d4c9c8862f7b49d786ab98",
-            "downloadState": 2
+            "md5": "397222a4e7d4c9c8862f7b49d786ab98"
         },
         "assets/resources/native/f4/f4a79edb-05db-4269-9b8d-78941c6d1344.png": {
             "size": 2016,
@@ -51386,8 +51160,7 @@
         },
         "assets/resources/native/f5/f5e04eb8-786e-4c76-a912-dd484c8a96e4.bin": {
             "size": 2902,
-            "md5": "ed364db456593eb4c47fbbe12e3cbc60",
-            "downloadState": 2
+            "md5": "ed364db456593eb4c47fbbe12e3cbc60"
         },
         "assets/resources/native/f6/f6065eeb-ecbc-4580-877b-4f35882ba338.png": {
             "size": 4307,
@@ -51423,8 +51196,7 @@
         },
         "assets/resources/native/f6/f6fd62a8-95cf-4ca9-b8cc-c83dcba591be.bin": {
             "size": 149280,
-            "md5": "114883b834960a4bda98a71df2c3d827",
-            "downloadState": 2
+            "md5": "114883b834960a4bda98a71df2c3d827"
         },
         "assets/resources/native/f7/f71dcf6b-167d-4451-961d-347434f8e9e7.png": {
             "size": 1525,
@@ -51520,8 +51292,7 @@
         },
         "assets/resources/native/f9/f9730679-d4b9-4ae9-8865-ce9b375d5b88.bin": {
             "size": 3425,
-            "md5": "c1514bf75015c4f22e885fafb28ec28e",
-            "downloadState": 2
+            "md5": "c1514bf75015c4f22e885fafb28ec28e"
         },
         "assets/resources/native/f9/f97a8e36-d65c-476b-8294-f1e56fcecb86.png": {
             "size": 2594,
@@ -51689,8 +51460,7 @@
         },
         "assets/resources/native/fe/fe9ba035-4d40-45a8-9a63-3a3b95b96a12.bin": {
             "size": 1453,
-            "md5": "33fa873b193be7955c06703bdcb21ff9",
-            "downloadState": 2
+            "md5": "33fa873b193be7955c06703bdcb21ff9"
         },
         "assets/resources/native/fe/fea07680-f0fb-4f6d-847b-cd14acec67d4.bin": {
             "size": 17,
